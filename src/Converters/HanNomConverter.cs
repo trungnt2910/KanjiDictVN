@@ -229,6 +229,37 @@ public class HanNomConverter : ConverterBase
                         Character = kanji
                     };
 
+                    /* TODO: Refactor the whole thing to build some kind of "Han Nom data tree"
+                     * Then, we can get rid of all the HTML and serialize this page into a cleaner data type (JSON,...)
+                     * The tree of a typical entry, for reference:
+                        hvres han-word
+                            hvres-header
+                                hvres-word
+                                hvres-definition
+                            hvres-details
+                                hvres-meaning
+                                
+                                hvres-source
+                                hvres-meaning
+                                hvres-source
+                                hvres-meaning
+
+                                ... More source - meaning pairs
+
+                        hvres name=....
+                            hvres-header
+                                hvres-definition
+                            hvres-details
+                                hvres-source
+                                hvres-meaning
+                                hvres-source
+                                hvres-meaning
+
+                                ... More source - meaning pairs
+
+                        ... More hvres name=... groups
+                     */
+
                     if (mainDetail != null)
                     {
                         var mainDetailFirstMeaning = mainDetail.Descendants()
@@ -292,17 +323,17 @@ public class HanNomConverter : ConverterBase
 
                         // We only extract data from the general dictionary. Other dictionaries provide definitions
                         // that are too complicated.
-                        var definitionTuDienPhoThongHeader = definition.Descendants()
-                            .Where(d => d.HasClass("hvres-source") && d.InnerText.Trim() == "Từ điển phổ thông")
-                            .FirstOrDefault();
+                        var definitionTuDienPhoThongHeaders = definition.Descendants()
+                            .Where(d => d.HasClass("hvres-source") && d.InnerText.Trim() == "Từ điển phổ thông");
 
-                        if (definitionTuDienPhoThongHeader != null)
+                        foreach (var definitionTuDienPhoThongHeader in definitionTuDienPhoThongHeaders)
                         {
                             var definitionTuDienPhoThongContent = definitionTuDienPhoThongHeader.NextSibling;
                             while (definitionTuDienPhoThongContent != null && !definitionTuDienPhoThongContent.HasClass("hvres-meaning"))
                             {
                                 definitionTuDienPhoThongContent = definitionTuDienPhoThongContent.NextSibling;
                             }
+                            
                             var definitionTuDienPhoThongText = definitionTuDienPhoThongContent?.GetPlainText().Split(Environment.NewLine)
                                 .Select(s => s.Trim())
                                 .Select(s => s.Trim("0123456789. ".ToCharArray()))
