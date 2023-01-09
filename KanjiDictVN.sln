@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generator", "src\Generator.csproj", "{8415654B-5E57-4C82-BFE5-065FD9EBC8B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KANJIDICT English", "KANJIDICT English", "{B108CD2A-048F-45E3-8001-7F4E567E0827}"
+	ProjectSection(SolutionItems) = preProject
+		inp_en\index.json = inp_en\index.json
+		inp_en\kanji_bank_1.json = inp_en\kanji_bank_1.json
+		inp_en\kanji_bank_2.json = inp_en\kanji_bank_2.json
+		inp_en\tag_bank_1.json = inp_en\tag_bank_1.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BFE8E17-9007-47AE-AAA1-ECC9C14CA236}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vietnamese output", "Vietnamese output", "{FE97568A-247F-4D2C-9E00-915B1EC9CD5D}"
+	ProjectSection(SolutionItems) = preProject
+		out_vn\index.json = out_vn\index.json
+		out_vn\kanji_bank_1.json = out_vn\kanji_bank_1.json
+		out_vn\kanji_bank_2.json = out_vn\kanji_bank_2.json
+		out_vn\tag_bank_1.json = out_vn\tag_bank_1.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8415654B-5E57-4C82-BFE5-065FD9EBC8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8415654B-5E57-4C82-BFE5-065FD9EBC8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8415654B-5E57-4C82-BFE5-065FD9EBC8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8415654B-5E57-4C82-BFE5-065FD9EBC8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638019B9-0D47-4B8F-AD9E-BA879199B133}
+	EndGlobalSection
+EndGlobal
