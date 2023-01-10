@@ -1,9 +1,9 @@
 <!doctype html>
 		<html lang="vi">
 		<head>
-			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 率" />
-			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn" />
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 率">
+			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn">
 			
 			<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
 			<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
@@ -14,7 +14,7 @@
 			<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
 			<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
 			<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
-			<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+			<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/android-icon-192x192.png">
 			<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
 			<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -24,16 +24,15 @@
 			<meta name="theme-color" content="#ffffff">
 
 			<title>Tra từ: 率 - Từ điển Hán Nôm</title>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type=text/css rel=stylesheet>
-		<link href="/style.1590385402.css" type=text/css rel=stylesheet>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type="text/css" rel="stylesheet">
+		<link href="/style.1649305351.css" type="text/css" rel="stylesheet">
 
 		<script type="text/javascript">
-			var _UseMobileView = false,
-				_UrlRewrite = true,
+			const _UrlRewrite = true,
 				_UrlBase = "/";
 		</script>
 		<script type="text/javascript" src="/libjs/jquery-2.2.4.min.1586829527.js"></script>
-		<script type="text/javascript" src="/scripts.1591518900.js"></script>
+		<script type="text/javascript" src="/scripts.1642564303.js"></script>
 		
 		<script type="text/javascript">
 window.onscroll = LP_OnScroll;
@@ -47,13 +46,25 @@ $(LP_OnStartup);
 			ga('create', 'UA-31319182-2', 'thivien.net');
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
-			</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+			</script><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5466764586357052" crossorigin="anonymous"></script><script>
 			  (adsbygoogle = window.adsbygoogle || []).push({
 				google_ad_client: "ca-pub-5466764586357052",
 				enable_page_level_ads: true
 			  });
+			</script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> 
+			<script> 
+			window.googletag = window.googletag || {cmd: []}; 
+			googletag.cmd.push(function() {
+				googletag.defineSlot("/27973503/Publishers/Desktop/Large1/thivien.net", [[300, 600]], "div-gpt-ad-1632973737400-0").addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest(); 
+				googletag.enableServices(); 
+			}); 
 			</script></head>
-		<body style="background-image:url('/images/background.jpg')"><div id="fb-root"></div>
+		<body>
+		
+		<script>
+		if (UsingDarkMode()) ApplyDarkMode(true);
+		</script><div id="fb-root"></div>
 			<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
@@ -67,108 +78,86 @@ $(LP_OnStartup);
 				<nav>
 					<a class="menu-icon" href="javascript:void(0)"></a>
 					
-					<ul class="menu"><li class="menu-item current""><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
-					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
-					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán ⇒ phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm ⇒ chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể ⇒ giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể ⇒ phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
+					<ul class="menu"><li class="menu-item current"><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
+					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/reading/1/1" class="menu-title">Theo âm Nhật (onyomi)</a></li><li class="menu-item"><a href="/reading/1/2" class="menu-title">Theo âm Nhật (kunyomi)</a></li><li class="menu-item"><a href="/reading/1/3" class="menu-title">Theo âm Hàn</a></li><li class="menu-item"><a href="/reading/1/4" class="menu-title">Theo âm Quảng Đông</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
+					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán <i class="fas fa-arrow-right gray"></i> phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm <i class="fas fa-arrow-right gray"></i> chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể <i class="fas fa-arrow-right gray"></i> giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể <i class="fas fa-arrow-right gray"></i> phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
 					<ul class="submenu"><li class="menu-item"><a href="/applications.php" class="menu-title">Cài đặt ứng dụng</a></li><li class="menu-item"><a href="/writing.php" class="menu-title">Học viết chữ Hán</a></li><li class="menu-item"><a href="/fonts.php" class="menu-title">Font chữ Hán Nôm</a></li></ul></li><li class="menu-item"><a href="/comment.php" class="menu-title">Góp ý</a></li>			</ul>
 				</nav>
 			</div>
 		</header>
 
-		<section><div style="width:100%; overflow-x:hidden">
-				<div class="fb-like" data-href="/" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
-			</div><div style="text-align:center"><div style="margin:10px 0">
+		<section><div class="fb-plugin-container" style="width:100%; overflow-x:hidden" data-type="like" data-href="/"></div><div style="text-align:center"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="horizontal"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
-			</div></div><div>
-				<div class="right-col"><!-- HVDic-BigCol -->
-				<ins class="adsbygoogle"
-					 style="display:inline-block;width:300px;height:600px"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="1091155526"></ins>
+			</div></div><div class="main-content">
+				<div class="ads-col"><!-- HVDic-BigCol -->
+				<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5466764586357052" data-ad-slot="1091155526"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 				
-				<p />
-				
-				<div>
-					<div id="FloatingAds" style="margin:auto">
-						<script type="text/javascript" src="https://e.eclick.vn/delivery/zone/2272.js"></script>
+				<div class="sticky-top" style="margin-top: 5px">
+					<div id="div-gpt-ad-1632973737400-0" style="min-width: 300px; min-height: 250px;">
+					<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1632973737400-0"); });</script>
 					</div>
 				</div></div>
-				<div class="main-content">
+				<div class="content-col">
+					<div class="sticky-top">
 <form id="LookupForm" class="main-form" method="GET" action="/" data-lang="1" onsubmit="OnLookupFormSubmitted(event)">
-	<input type="text" readonly class="main-input with-vbtn" name="Value" autofocus placeholder="車 车 xa xe che1 chē" accesskey="1" value="率" />
+	<input type="text" readonly="" class="main-input" name="Value" autofocus="" placeholder="車 车 xa xe che1 chē" accesskey="1" value="率">
 	
 	<div class="vbtn-group">
-		<button type="button" disabled class="mode-selector">文</button><!--
-	 --><button type="button" disabled class="type-selector"><i class="fas fa-dice"></i></button><!--
-	 --><button type="button" disabled class="vnkb-btn" accesskey='v'>V</button>
+		<button type="button" disabled="" class="mode-selector">文</button><!--
+	 --><button type="button" disabled="" class="type-selector"><i class="fas fa-dice"></i></button><!--
+	 --><button type="button" disabled="" class="vnkb-btn" accesskey='v'>V</button>
 	</div>
 
-	<input type="hidden" name="Mode" value="2" />
-	<input type="hidden" name="Type" value="3" />
+	<input type="hidden" name="Mode" value="2">
+	<input type="hidden" name="Type" value="3">
 
 	<p class="alert small" style="display:none"></p>
 	
 	<div class="main-form-row" style="text-align: center">
-<button type="button" disabled class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
+<button type="button" disabled="" class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled="" class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled="" class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
 
 </form>
 
 <div class="info">
 					<h2>Có 5 kết quả:</h2>
-					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">luật</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">lô</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">soát</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">suý</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">suất</span></div></div><div class="hvres"><div style="margin:10px 0">
-				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div></div><div class="hvres han-word">
+					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">luật</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">lô</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">soát</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">suý</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">suất</span></div></div><div class="hvres han-word">
 				<div class="hvres-header">		<div class="hvres-word han"><a href="/whv/率">率</a></div>			<div class="hvres-definition single">			</div>
 				</div>
 
-				<div class="hvres-details"><p</p>
+				<div class="hvres-details"><>
 				<div class="hvres-meaning"><span class="hvres-animation"><div class="anim-img hanzi-writer" data-word="率" data-graphics="{&quot;strokes&quot;:[&quot;M 491 788 Q 512 772 534 754 Q 549 744 563 745 Q 573 746 577 760 Q 580 775 568 802 Q 556 824 480 833 Q 465 834 460 831 Q 456 827 458 815 Q 462 805 491 788 Z&quot;,&quot;M 491 673 Q 572 686 655 697 Q 713 707 721 714 Q 730 721 726 729 Q 720 741 694 749 Q 672 755 558 726 Q 437 702 330 697 Q 296 693 320 677 Q 350 653 423 664 Q 438 667 456 667 L 491 673 Z&quot;,&quot;M 532 521 Q 489 522 453 522 Q 426 523 441 538 Q 478 581 511 613 Q 524 626 522 633 Q 521 645 491 673 C 469 694 452 697 456 667 Q 465 639 415 563 Q 405 547 386 532 Q 370 520 370 510 Q 373 494 384 478 Q 391 468 403 474 Q 427 486 504 498 Q 508 499 513 498 C 543 499 562 520 532 521 Z&quot;,&quot;M 509 363 Q 530 379 626 399 C 655 405 643 421 613 416 Q 546 406 469 387 Q 450 381 463 396 Q 500 436 587 516 Q 618 547 644 565 Q 657 574 652 583 Q 645 602 615 624 Q 602 634 592 633 Q 582 632 583 616 Q 580 583 532 521 L 513 498 Q 408 387 388 378 Q 375 371 376 358 Q 377 345 399 325 Q 408 313 423 323 Q 445 338 471 348 L 509 363 Z&quot;,&quot;M 626 399 Q 665 351 672 350 Q 679 349 686 357 Q 690 367 689 389 Q 688 408 665 427 Q 605 466 596 462 Q 592 461 591 451 Q 591 450 613 416 L 626 399 Z&quot;,&quot;M 249 585 Q 300 525 325 524 Q 338 523 344 542 Q 345 555 335 576 Q 325 591 302 597 Q 268 610 253 612 Q 243 613 243 602 Q 242 593 249 585 Z&quot;,&quot;M 198 372 Q 188 369 189 355 Q 193 339 218 330 Q 243 317 257 318 Q 266 319 271 340 Q 295 377 355 458 Q 361 464 357 470 Q 353 473 347 468 Q 233 378 216 375 Q 207 375 198 372 Z&quot;,&quot;M 741 620 Q 719 592 676 548 Q 670 542 675 535 Q 682 534 689 537 Q 767 580 804 596 Q 820 599 818 609 Q 814 624 798 642 Q 782 660 763 663 Q 750 664 749 646 Q 750 634 741 620 Z&quot;,&quot;M 682 463 Q 731 429 791 378 Q 807 363 820 361 Q 827 361 832 370 Q 841 383 826 418 Q 807 466 679 489 Q 672 493 671 482 Q 672 470 682 463 Z&quot;,&quot;M 546 226 Q 669 238 841 235 Q 874 234 903 235 Q 925 234 931 244 Q 937 257 919 272 Q 862 317 791 302 Q 694 286 546 263 L 490 256 Q 324 237 130 216 Q 108 215 124 195 Q 140 179 159 173 Q 183 167 200 172 Q 344 209 491 221 L 546 226 Z&quot;,&quot;M 499 -34 Q 505 -56 511 -65 Q 515 -72 523 -70 Q 535 -61 542 -7 Q 542 2 546 226 L 546 263 Q 546 270 550 295 Q 551 308 554 319 Q 557 335 544 344 Q 523 357 509 363 C 482 376 460 376 471 348 Q 486 315 490 265 Q 489 262 490 256 L 491 221 Q 495 -19 499 -34 Z&quot;],&quot;medians&quot;:[[[466,825],[541,787],[560,762]],[[322,688],[393,680],[676,726],[713,725]],[[463,663],[483,645],[486,634],[425,548],[409,510],[453,504],[510,510],[523,518]],[[595,621],[610,583],[551,509],[453,412],[443,399],[437,371],[471,368],[594,403],[608,405],[614,397]],[[599,454],[662,395],[675,361]],[[255,600],[307,565],[325,543]],[[203,359],[242,353],[353,465]],[[762,649],[776,618],[681,541]],[[681,479],[785,422],[819,375]],[[127,205],[182,195],[411,231],[804,270],[850,269],[918,251]],[[480,345],[508,331],[518,319],[519,-62]]]}">
 				<svg class="pad">
-					<rect width="100%" height="100%" />
-					<line x1="0" y1="0" x2="100%" y2="100%" />
-					<line x1="0" y1="100%" x2="100%" y2="0" />
-					<line x1="0" y1="50%" x2="100%" y2="50%" />
-					<line x1="50%" y1="0" x2="50%" y2="100%" />
+					<rect width="100%" height="100%"></rect>
+					<line x1="0" y1="0" x2="100%" y2="100%"></line>
+					<line x1="0" y1="100%" x2="100%" y2="0"></line>
+					<line x1="0" y1="50%" x2="100%" y2="50%"></line>
+					<line x1="50%" y1="0" x2="50%" y2="100%"></line>
 				</svg>
-			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">luật</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">lô</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">soát</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">suý</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">suất</span><br/>Âm Pinyin: <a href="/py/lu:4">lǜ</a>, <a href="/py/lu4">lù</a>, <a href="/py/lue4">luè</a>, <a href="/py/shuai4">shuài</a><br/>Âm Nôm: <a href="/nom/chuốt">chuốt</a>, <a href="/nom/sót">sót</a>, <a href="/nom/suất">suất</a>, <a href="/nom/suốt">suốt</a>, <a href="/nom/sút">sút</a>, <a href="/nom/thoắt">thoắt</a><br/>Âm Nhật Bản: hikiiru, oomune, wariai<br/>Âm Quảng Đông: leot6, seot1<br/>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=7387" target="_blank">U+7387</a><br/>Tổng nét: 11<br/>Bộ: <a href="/rad-hv/玄">huyền 玄</a> (+6 nét)<br/>Lục thư: tượng hình & hội ý<br/>Nét bút: <a href="/strokes-hv?Strokes=丶一フフ丶丶一ノ丶一丨">丶一フフ丶丶一ノ丶一丨</a><br/>Thương Hiệt: YIOJ (卜戈人十)<br/>Độ thông dụng trong Hán ngữ cổ: rất cao<br/>Độ thông dụng trong tiếng Trung hiện đại: rất cao</div><p class="hvres-source">Tự hình <span class="badge">5</span></p>
+			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">luật</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">lô</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">soát</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">suý</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">suất</span><br>Tổng nét: 11<br>Bộ: <a href="/rad-hv/玄">huyền 玄</a> (+6 nét)<br>Lục thư: tượng hình & hội ý<br>Nét bút: <a href="/strokes-hv?Strokes=丶一フフ丶丶一ノ丶一丨">丶一フフ丶丶一ノ丶一丨</a><br>Thương Hiệt: YIOJ (卜戈人十)<br>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=7387" target="_blank">U+7387</a><br>Độ thông dụng trong Hán ngữ cổ: rất cao<br>Độ thông dụng trong tiếng Trung hiện đại: rất cao</div><p class="hvres-source">Âm đọc khác</p>
+				<div class="hvres-meaning">Âm Pinyin: <a href="/py/lu:4">lǜ <span class="small gray han"></span></a>, <a href="/py/lu4">lù <span class="small gray han">ㄌㄨˋ</span></a>, <a href="/py/lue4">luè <span class="small gray han">ㄌㄩㄝˋ</span></a>, <a href="/py/shuai4">shuài <span class="small gray han">ㄕㄨㄞˋ</span></a><br>Âm Nôm: <a href="/nom/chuốt">chuốt</a>, <a href="/nom/sót">sót</a>, <a href="/nom/suất">suất</a>, <a href="/nom/suốt">suốt</a>, <a href="/nom/sút">sút</a>, <a href="/nom/thoắt">thoắt</a><br>Âm Nhật (onyomi): <a href="/reading/1/1/ソツ">ソツ (sotsu)</a>, <a href="/reading/1/1/リツ">リツ (ritsu)</a>, <a href="/reading/1/1/シュツ">シュツ (shutsu)</a><br>Âm Nhật (kunyomi): <a href="/reading/1/2/ひき.いる">ひき.いる (hiki.iru)</a><br>Âm Hàn: <a href="/reading/1/3/솔">솔</a>, <a href="/reading/1/3/률">률</a>, <a href="/reading/1/3/율">율</a><br>Âm Quảng Đông: <a href="/reading/1/4/leot6">leot6</a>, <a href="/reading/1/4/seot1">seot1</a></div><p class="hvres-source">Tự hình <span class="badge">5</span></p>
 				<div class="hvres-meaning"><span data-tippy-placement="bottom" data-tippy-content="Giáp cốt văn">
-					<img class="hvres-variant-img lazy" data-original="/pic/jgw/2knGhWmkfNZ37kEOQ1HkLw.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Kim văn">
-					<img class="hvres-variant-img lazy" data-original="/pic/jw/2knGhWmkfNZ37kEOQ1HkLw.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Triện văn">
-					<img class="hvres-variant-img lazy" data-original="/pic/xz2/2knGhWmkfNZ37kEOQ1HkLw.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Lệ thư">
-					<img class="hvres-variant-img lazy" data-original="/pic/ls/2knGhWmkfNZ37kEOQ1HkLw.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
-					<img class="hvres-variant-img lazy" data-original="/pic/kt/2knGhWmkfNZ37kEOQ1HkLw.gif" /></span></div><p class="hvres-source">Dị thể <span class="badge">7</span></p>
-				<div class="hvres-meaning"><a href="/whv/䢦"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#18598;</span></a><a href="/whv/卛"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#21339;</span></a><a href="/whv/鋝"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#37597;</span></a><a href="/whv/率"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#63841;</span></a><a href="/whv/率"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#63963;</span></a><a href="/whv/𧗵"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#161269;</span></a><a href="/whv/𧗿"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#161279;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Một số bài thơ có sử dụng</p>
-				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/%C4%90o%C3%A0n-Huy%C3%AAn/Chi-di/poem-d5tc4rCvIcm1vq0K6ZdpEw">Chi di - 搘頤</a> (<a href="https://www.thivien.net/%C4%90o%C3%A0n-Huy%C3%AAn/author-h3EvqeQvlQUxq2sceUWWYQ">Đoàn Huyên</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Thi%E1%BB%87u-Tr%E1%BB%8B-ho%C3%A0ng-%C4%91%E1%BA%BF/%C4%90%E1%BB%87-th%E1%BA%ADp-nh%E1%BB%8B-c%E1%BA%A3nh-B%C3%ACnh-l%C3%A3nh-%C4%91%C4%83ng-cao/poem-v8PfLRzRfbBfxhQMnwQfxw">Đệ thập nhị cảnh - Bình lãnh đăng cao - 第十二景－平岭登高</a> (<a href="https://www.thivien.net/Thi%E1%BB%87u-Tr%E1%BB%8B-ho%C3%A0ng-%C4%91%E1%BA%BF/author-nC6naBeYFtCN3Ft17XDeJw">Thiệu Trị hoàng đế</a>)<br/>• <a target="_blank" href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/H%E1%BA%A1-v%C5%A9/poem-1WwuWOOTnqta5CuA9yU9AQ">Hạ vũ - 賀雨</a> (<a href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/author-GTDxHQP8eUITUxph4otjnA">Bạch Cư Dị</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/H%C3%A0nh-th%E1%BB%A9-Chi%C3%AAu-L%C4%83ng/poem-zTsRx-UIk79QqyybQFDp6Q">Hành thứ Chiêu Lăng - 行次昭陵</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Khuy%E1%BA%BFt-danh-Trung-Qu%E1%BB%91c/L%E1%BA%ABm-l%E1%BA%ABm-tu%E1%BA%BF-v%C3%A2n-m%E1%BB%99/poem-T_b3Fgd4kqqukkxbKnnJzQ">Lẫm lẫm tuế vân mộ - 凜凜歲云暮</a> (<a href="https://www.thivien.net/Khuy%E1%BA%BFt-danh-Trung-Qu%E1%BB%91c/author-7Jx-9zMDy2CyYi7fIk3zRA">Khuyết danh Trung Quốc</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Du/Ph%E1%BA%A3n-chi%C3%AAu-h%E1%BB%93n/poem-e9ahXuxrGyDkU5kL3GOwjQ">Phản chiêu hồn - 反招魂</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-Du/author-ZRyB2U-4oqfhcjZ7xrf1_A">Nguyễn Du</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Quan-%C4%91%E1%BB%8Bnh-h%E1%BA%ADu-h%C3%BD-t%E1%BA%B7ng/poem-vt5tCbFM90OODArSZ5zpqQ">Quan định hậu hý tặng - 官定後戲贈</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/>• <a target="_blank" href="https://www.thivien.net/T%C3%A0o-Tuy%E1%BA%BFt-C%E1%BA%A7n/Qu%E1%BB%B7-ho%E1%BA%A1ch-t%E1%BB%AB-Gi%E1%BA%A3-B%E1%BA%A3o-Ng%E1%BB%8Dc/poem-zf9KF6NYoiyU_xgbBBCTSQ">Quỷ hoạch từ - Giả Bảo Ngọc - 姽嫿詞－賈寶玉</a> (<a href="https://www.thivien.net/T%C3%A0o-Tuy%E1%BA%BFt-C%E1%BA%A7n/author-1DK3jrzNRQ6A5gusK7iSPw">Tào Tuyết Cần</a>)<br/>• <a target="_blank" href="https://www.thivien.net/T%C3%B4-Th%E1%BB%A9c/Th%E1%BB%A9-v%E1%BA%ADn-Kh%E1%BB%95ng-Ngh%E1%BB%8B-Ph%E1%BB%A7-C%E1%BB%ADu-h%E1%BA%A1n-d%C4%A9-nhi-th%E1%BA%ADm-v%C5%A9-k%E1%BB%B3-2/poem-nRnBD4rv5oyMI0oWX6PJDw">Thứ vận Khổng Nghị Phủ “Cửu hạn dĩ nhi thậm vũ” kỳ 2 - 次韻孔毅甫久旱已而甚雨其二</a> (<a href="https://www.thivien.net/T%C3%B4-Th%E1%BB%A9c/author-ZsPeAEZWTH-jxxg2cYfLgg">Tô Thức</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Th%C6%B0%E1%BB%9Bng-%C4%90%C3%A2u-Su%E1%BA%A5t-t%E1%BB%B1/poem-kyHVGzKWoycPEk7h0RKwsQ">Thướng Đâu Suất tự - 上兜率寺</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/></div>	</div>
+					<img class="hvres-variant-img lazy" data-original="/pic/jgw/2knGhWmkfNZ37kEOQ1HkLw.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Kim văn">
+					<img class="hvres-variant-img lazy" data-original="/pic/jw/2knGhWmkfNZ37kEOQ1HkLw.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Triện văn">
+					<img class="hvres-variant-img lazy" data-original="/pic/xz2/2knGhWmkfNZ37kEOQ1HkLw.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Lệ thư">
+					<img class="hvres-variant-img lazy" data-original="/pic/ls/2knGhWmkfNZ37kEOQ1HkLw.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
+					<img class="hvres-variant-img lazy" data-original="/pic/kt/2knGhWmkfNZ37kEOQ1HkLw.gif"></span></div><p class="hvres-source">Dị thể <span class="badge">7</span></p>
+				<div class="hvres-meaning"><a href="/whv/䢦"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#18598;</span></a><a href="/whv/卛"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#21339;</span></a><a href="/whv/鋝"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#37597;</span></a><a href="/whv/率"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#63841;</span></a><a href="/whv/率"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#63963;</span></a><a href="/whv/𧗵"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#161269;</span></a><a href="/whv/𧗿"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#161279;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Chữ gần giống <span class="badge">2</span></p>
+				<div class="hvres-meaning"><a href="/whv/率"><span class="hvres-variant han" data-tippy-placement="bottom">&#xF9DB;</span></a><a href="/whv/率"><span class="hvres-variant han" data-tippy-placement="bottom">&#xF961;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Một số bài thơ có sử dụng</p>
+				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/H%C3%A0n-D%C5%A9/%C4%90i%E1%BB%81u-Tr%C6%B0%C6%A1ng-T%E1%BB%8Bch/poem-Oc2pRVH7WGFYjw7w5rhACw">Điều Trương Tịch - 調張籍</a> (<a href="https://www.thivien.net/H%C3%A0n-D%C5%A9/author-mXDKUZpgHTE66OhltBCLIw">Hàn Dũ</a>)<br>• <a target="_blank" href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/H%E1%BA%A1-v%C5%A9/poem-1WwuWOOTnqta5CuA9yU9AQ">Hạ vũ - 賀雨</a> (<a href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/author-GTDxHQP8eUITUxph4otjnA">Bạch Cư Dị</a>)<br>• <a target="_blank" href="https://www.thivien.net/Khuy%E1%BA%BFt-danh-Trung-Qu%E1%BB%91c/L%E1%BA%ABm-l%E1%BA%ABm-tu%E1%BA%BF-v%C3%A2n-m%E1%BB%99/poem-T_b3Fgd4kqqukkxbKnnJzQ">Lẫm lẫm tuế vân mộ - 凜凜歲云暮</a> (<a href="https://www.thivien.net/Khuy%E1%BA%BFt-danh-Trung-Qu%E1%BB%91c/author-7Jx-9zMDy2CyYi7fIk3zRA">Khuyết danh Trung Quốc</a>)<br>• <a target="_blank" href="https://www.thivien.net/L%C3%AA-Hi%E1%BA%BFn-T%C3%B4ng/Ng%E1%BB%B1-ch%E1%BA%BF-phi%E1%BA%BFm-Th%E1%BA%A7n-Ph%C3%B9-h%E1%BA%A3i-%C4%91%C4%83ng-Ch%C3%ADch-Tr%E1%BB%A3-s%C6%A1n-l%C6%B0u-%C4%91%E1%BB%81/poem-9VK9DVSLzwhCzNEgDPkF7g">Ngự chế phiếm Thần Phù hải đăng Chích Trợ sơn lưu đề - 御制泛神符海登隻箸山留題</a> (<a href="https://www.thivien.net/L%C3%AA-Hi%E1%BA%BFn-T%C3%B4ng/author-w2AnDce4s8gHbBLMx00Siw">Lê Hiến Tông</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Ph%E1%BB%A5ng-t%E1%BA%B7ng-L%C3%B4-ng%C5%A9-tr%C6%B0%E1%BB%A3ng-tham-m%C6%B0u-C%E1%BB%A9/poem-p42Y4_JJGaYn8YKIGjyPrQ">Phụng tặng Lô ngũ trượng tham mưu Cứ - 奉贈盧五丈參謀琚</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/L%C3%AA-H%E1%BB%AFu-Tr%C3%A1c/Th%E1%BB%A7-08/poem-Z-qXx9Zj9dNX_GvW72Xang">Thủ 08 - 首０８</a> (<a href="https://www.thivien.net/L%C3%AA-H%E1%BB%AFu-Tr%C3%A1c/author-17RN7O2NKv8SmVJdOlpdFg">Lê Hữu Trác</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Thu%E1%BA%ADt-c%E1%BB%95-k%E1%BB%B3-2/poem-WDmPURbVLbTgQIPIWovNHg">Thuật cổ kỳ 2 - 述古其二</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/Tr%E1%BA%A7n-Nguy%C3%AAn-%C4%90%C3%A1n/T%E1%BB%91ng-b%C3%ACnh-t%C3%A2y-%C4%91%C3%B4-%C4%91%E1%BB%91c-Trang-%C4%90%E1%BB%8Bnh-%C4%91%E1%BA%A1i-v%C6%B0%C6%A1ng-ph%E1%BB%A5ng-chi%E1%BA%BFu-chinh-Chi%C3%AAm-Th%C3%A0nh/poem-3WrinDEzQncQevIUSKEOcA">Tống bình tây đô đốc Trang Định đại vương phụng chiếu chinh Chiêm Thành - 送平西都督莊定大王奉詔征占城</a> (<a href="https://www.thivien.net/Tr%E1%BA%A7n-Nguy%C3%AAn-%C4%90%C3%A1n/author-h_HbFCmxWKkwxboqzaEfNA">Trần Nguyên Đán</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/T%C6%B0%C6%A1ng-th%C3%ADch-Ng%C3%B4-S%E1%BB%9F-l%C6%B0u-bi%E1%BB%87t-Ch%C6%B0%C6%A1ng-s%E1%BB%A9-qu%C3%A2n-l%C6%B0u-h%E1%BA%ADu-ki%C3%AAm-m%E1%BA%A1c-ph%E1%BB%A7-ch%C6%B0-c%C3%B4ng-%C4%91%E1%BA%AFc-li%E1%BB%85u-t%E1%BB%B1/poem-VusrYuqrkvq24lkjJ2HUYQ">Tương thích Ngô Sở, lưu biệt Chương sứ quân lưu hậu kiêm mạc phủ chư công, đắc liễu tự - 將適吳楚，留別章使君留後兼幕府諸公，得柳字</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Y%E1%BA%BFn-Trung-Ch%C3%A2u-s%E1%BB%A9-qu%C3%A2n-%C4%91i%E1%BB%87t-tr%E1%BA%A1ch/poem-RQN9rtsBIHcXXq3ZHIfE8A">Yến Trung Châu sứ quân điệt trạch - 宴忠州使君侄宅</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br></div>	</div>
 			</div><div class="hvres-nav-dock">
 					<a class="hvres-nav-btn hvres-nav-up" href="javascript:void(0)" onclick="ScrollToPrev()" ondblclick="ScrollTo(0)" accesskey=","><i class="hvres-nav-btn-arrow"></i></a>
 					<p class="hvres-nav-idx"><span class="hvres-nav-idx-val">1</span>/5</p>
 					<a class="hvres-nav-btn hvres-nav-down" href="javascript:void(0)" onclick="ScrollToNext()" ondblclick="ScrollTo('bottom')" accesskey="."><i class="hvres-nav-btn-arrow"></i></a>
 				</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -177,47 +166,43 @@ $(LP_OnStartup);
 				</div>
 
 				<div class="hvres-details"><p data-duid="SkBjrXAyCDUYZvgtKtj4qg" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br />
-2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br />
-3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br />
-4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br />
-5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br />
-6. (Danh) Cái lưới bắt chim.<br />
-7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br />
-8. (Danh) Họ “Suất”.<br />
-9. (Động) Tính toán, kế toán.<br />
-10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br />
-11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br>
+2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br>
+3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br>
+4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br>
+5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br>
+6. (Danh) Cái lưới bắt chim.<br>
+7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br>
+8. (Danh) Họ “Suất”.<br>
+9. (Động) Tính toán, kế toán.<br>
+10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br>
+11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br>
 12. Một âm nữa là “soát”. (Danh) Quả cân sáu lạng.</div><p data-duid="95pL6poMP3xvqtSjL6q0MA" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Noi theo.<br />
-② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br />
-③ Ðại suất 大率 cũng như nói đại khái.<br />
-④ Làm nên, làm đích.<br />
-⑤ Hấp tấp, khinh xuất.<br />
-⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br />
-⑦ Cái lưới bắt chim.<br />
-⑧ Dùng.<br />
-⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br />
-⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">① Noi theo.<br>
+② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br>
+③ Ðại suất 大率 cũng như nói đại khái.<br>
+④ Làm nên, làm đích.<br>
+⑤ Hấp tấp, khinh xuất.<br>
+⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br>
+⑦ Cái lưới bắt chim.<br>
+⑧ Dùng.<br>
+⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br>
+⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br>
 ⑪ Một âm nữa là soát. Quả cân sáu lạng.</div><p data-duid="8gEJOd2Qo4AlwIhY2x73Wg" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">① Tỉ lệ, suất, mức: 出勤率 Tỉ lệ đi làm; 效率 Hiệu suất; 人口增長率 Mức tăng nhân khẩu; <br />
-② (văn) Tiêu chuẩn, quy cách, luật nhất định: 算術之有定率 Thuật toán có luật nhất định; 有軍功者，各以率受上爵 Người có công đánh trận, đều ban cho tước vị cao theo tiêu chuẩn (Sử kí: Thương Quân liệt truyện); <br />
-③ (văn) Tính toán; <br />
+				<div class="hvres-meaning han-clickable">① Tỉ lệ, suất, mức: 出勤率 Tỉ lệ đi làm; 效率 Hiệu suất; 人口增長率 Mức tăng nhân khẩu; <br>
+② (văn) Tiêu chuẩn, quy cách, luật nhất định: 算術之有定率 Thuật toán có luật nhất định; 有軍功者，各以率受上爵 Người có công đánh trận, đều ban cho tước vị cao theo tiêu chuẩn (Sử kí: Thương Quân liệt truyện); <br>
+③ (văn) Tính toán; <br>
 ④ [Lđç] (Họ) Suất. Xem 率 [shuài].</div>	</div>
 			</div><div class="hvres" name="ple8fa636382" data-hvres-idx="2">
 				<div class="hvres-header">			<div class="hvres-definition no-word">			<p class="hvres-spell"><a href="/hv/lô">lô</a><span class="hvres-operations"> <i class="fas fa-link icon icon-hoverable" data-tippy-content="Copy liên kết" onclick="CopyURLToClipboard(location.origin+'/whv/率#ple8fa636382')"></i></span>			</p>			<p class="hvres-info gray small">phồn & giản thể</p>			</div>
 				</div>
 
 				<div class="hvres-details"><p data-duid="DkPQ9BuLtQlvkPiD60UC0Q" class="hvres-source">Từ điển phổ thông</p>
-				<div class="hvres-meaning han-clickable">1. noi theo<br />
+				<div class="hvres-meaning han-clickable">1. noi theo<br>
 2. quản lãnh</div>	</div>
 			</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -226,74 +211,70 @@ $(LP_OnStartup);
 				</div>
 
 				<div class="hvres-details"><p data-duid="kHbt3eXQAQPkIp2XSsZK-A" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br />
-2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br />
-3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br />
-4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br />
-5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br />
-6. (Danh) Cái lưới bắt chim.<br />
-7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br />
-8. (Danh) Họ “Suất”.<br />
-9. (Động) Tính toán, kế toán.<br />
-10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br />
-11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br>
+2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br>
+3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br>
+4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br>
+5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br>
+6. (Danh) Cái lưới bắt chim.<br>
+7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br>
+8. (Danh) Họ “Suất”.<br>
+9. (Động) Tính toán, kế toán.<br>
+10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br>
+11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br>
 12. Một âm nữa là “soát”. (Danh) Quả cân sáu lạng.</div><p data-duid="254Q508hM4FHYWcMWRZEaQ" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Noi theo.<br />
-② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br />
-③ Ðại suất 大率 cũng như nói đại khái.<br />
-④ Làm nên, làm đích.<br />
-⑤ Hấp tấp, khinh xuất.<br />
-⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br />
-⑦ Cái lưới bắt chim.<br />
-⑧ Dùng.<br />
-⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br />
-⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">① Noi theo.<br>
+② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br>
+③ Ðại suất 大率 cũng như nói đại khái.<br>
+④ Làm nên, làm đích.<br>
+⑤ Hấp tấp, khinh xuất.<br>
+⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br>
+⑦ Cái lưới bắt chim.<br>
+⑧ Dùng.<br>
+⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br>
+⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br>
 ⑪ Một âm nữa là soát. Quả cân sáu lạng.</div>	</div>
 			</div><div class="hvres" name="plaa8330e3ce" data-hvres-idx="4">
 				<div class="hvres-header">			<div class="hvres-definition no-word">			<p class="hvres-spell"><a href="/hv/suý">suý</a><span class="hvres-operations"> <i class="fas fa-link icon icon-hoverable" data-tippy-content="Copy liên kết" onclick="CopyURLToClipboard(location.origin+'/whv/率#plaa8330e3ce')"></i></span>			</p>			<p class="hvres-info gray small">phồn & giản thể</p>			</div>
 				</div>
 
 				<div class="hvres-details"><p data-duid="Zw5cF1AXW_oQ8YJmaW4VDw" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br />
-2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br />
-3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br />
-4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br />
-5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br />
-6. (Danh) Cái lưới bắt chim.<br />
-7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br />
-8. (Danh) Họ “Suất”.<br />
-9. (Động) Tính toán, kế toán.<br />
-10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br />
-11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br>
+2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br>
+3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br>
+4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br>
+5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br>
+6. (Danh) Cái lưới bắt chim.<br>
+7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br>
+8. (Danh) Họ “Suất”.<br>
+9. (Động) Tính toán, kế toán.<br>
+10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br>
+11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br>
 12. Một âm nữa là “soát”. (Danh) Quả cân sáu lạng.</div><p data-duid="yG2yNN5q2M-cPgYyaFCCxg" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Noi theo.<br />
-② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br />
-③ Ðại suất 大率 cũng như nói đại khái.<br />
-④ Làm nên, làm đích.<br />
-⑤ Hấp tấp, khinh xuất.<br />
-⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br />
-⑦ Cái lưới bắt chim.<br />
-⑧ Dùng.<br />
-⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br />
-⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">① Noi theo.<br>
+② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br>
+③ Ðại suất 大率 cũng như nói đại khái.<br>
+④ Làm nên, làm đích.<br>
+⑤ Hấp tấp, khinh xuất.<br>
+⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br>
+⑦ Cái lưới bắt chim.<br>
+⑧ Dùng.<br>
+⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br>
+⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br>
 ⑪ Một âm nữa là soát. Quả cân sáu lạng.</div><p data-duid="xxpq0IpnokRvv7Bvg3A29A" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">① Dẫn, chỉ huy: 率領 Dẫn dắt, lãnh đạo; 率兵 Cầm quân, chỉ huy quân đội; <br />
-② (văn) Người đứng đầu quân, chủ tướng, tướng suý (soái) (dùng như 帥, bộ 巾): 將率不能則兵弱 Tướng soái (súy) không giỏi thì quân yếu (Tuân tử); <br />
-③ Nông nổi, nhẹ dạ, tùy tiện, khinh suất: 不要輕率地處理問題 Không nên tùy tiện giải quyết vấn đề. 【率爾】 suất nhĩ [shuài&#039;âr] (văn) Không thận trọng, thiếu suy nghĩ, bộp chộp: 子路率爾而對 Tử Lộ bộp chộp trả lời (Luận ngữ); <br />
-④ Thẳng thắn, ngay thẳng: 率宜地批評 Phê bình thẳng thắn; <br />
-⑤ Đại khái: 大率如此 Đại khái là như thế; <br />
-⑥ (văn) Noi theo, men theo: 率彼淮浦 Men theo con sông Hoài kia (Thi Kinh); 率由舊章Noi theo quy định cũ (Thi Kinh); 率性之謂道 Noi theo tính gọi là đạo (Trung dung); <br />
-⑦ (văn) Làm nêu, làm đích; <br />
-⑧ (văn) Lưới bắt chim; <br />
+				<div class="hvres-meaning han-clickable">① Dẫn, chỉ huy: 率領 Dẫn dắt, lãnh đạo; 率兵 Cầm quân, chỉ huy quân đội; <br>
+② (văn) Người đứng đầu quân, chủ tướng, tướng suý (soái) (dùng như 帥, bộ 巾): 將率不能則兵弱 Tướng soái (súy) không giỏi thì quân yếu (Tuân tử); <br>
+③ Nông nổi, nhẹ dạ, tùy tiện, khinh suất: 不要輕率地處理問題 Không nên tùy tiện giải quyết vấn đề. 【率爾】 suất nhĩ [shuài&#039;âr] (văn) Không thận trọng, thiếu suy nghĩ, bộp chộp: 子路率爾而對 Tử Lộ bộp chộp trả lời (Luận ngữ); <br>
+④ Thẳng thắn, ngay thẳng: 率宜地批評 Phê bình thẳng thắn; <br>
+⑤ Đại khái: 大率如此 Đại khái là như thế; <br>
+⑥ (văn) Noi theo, men theo: 率彼淮浦 Men theo con sông Hoài kia (Thi Kinh); 率由舊章Noi theo quy định cũ (Thi Kinh); 率性之謂道 Noi theo tính gọi là đạo (Trung dung); <br>
+⑦ (văn) Làm nêu, làm đích; <br>
+⑧ (văn) Lưới bắt chim; <br>
 ⑨ (văn) Dùng. Xem 率 [lđç].</div><p class="hvres-source">Từ ghép <span class="badge">1</span></p>
 				<div class="hvres-meaning han-clickable small"><a href="/whv/渠率">cừ suý 渠率</a></div>	</div>
 			</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -302,52 +283,53 @@ $(LP_OnStartup);
 				</div>
 
 				<div class="hvres-details"><p data-duid="Jl738uyPHN-JfPWmxSHZwQ" class="hvres-source">Từ điển phổ thông</p>
-				<div class="hvres-meaning han-clickable">1. noi theo<br />
+				<div class="hvres-meaning han-clickable">1. noi theo<br>
 2. quản lãnh</div><p data-duid="ei548wQzgcIkXNnkZfxE3A" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br />
-2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br />
-3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br />
-4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br />
-5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br />
-6. (Danh) Cái lưới bắt chim.<br />
-7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br />
-8. (Danh) Họ “Suất”.<br />
-9. (Động) Tính toán, kế toán.<br />
-10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br />
-11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">1. (Động) Noi theo, dựa theo. ◇Nguyễn Du 阮攸: “Hồn hề! hồn hề! suất thử đạo” 魂兮魂兮率此道 (Phản chiêu hồn 反招魂) Hồn ơi! hồn ơi! nếu cứ noi theo lối đó.<br>
+2. (Động) Dẫn, mang theo. ◎Như: “suất lĩnh” 率領 dẫn đạo, “suất tử kị tôn” 率子曁孫 dẫn con và cháu.<br>
+3. (Phó) Đại khái, đại thể. ◎Như: “đại suất” 大率 đại khái, “suất giai như thử” 率皆如此 đại thể đều như thế cả.<br>
+4. (Tính) Hấp tấp, nông nổi. ◎Như: “khinh suất” 輕率 không cẩn thận, thiếu thận trọng, “thảo suất” 草率 cẩu thả.<br>
+5. (Tính) Thẳng thắn, ngay thẳng. ◎Như: “thản suất” 坦率 thẳng thắn, “trực suất” 直率 ngay thẳng.<br>
+6. (Danh) Cái lưới bắt chim.<br>
+7. (Danh) Tỉ lệ, mức. ◎Như: “hiệu suất” 效率 hiệu năng, “bách phân suất” 百分率 tỉ lệ phần trăm.<br>
+8. (Danh) Họ “Suất”.<br>
+9. (Động) Tính toán, kế toán.<br>
+10. Một âm là “súy”. § Cùng nghĩa với chữ “súy” 帥.<br>
+11. Lại một âm là “luật”. (Danh) Luật nhất định, tiêu chuẩn. ◎Như: “toán thuật chi hữu định luật” 算術之有定率 phép tính có luật nhất định.<br>
 12. Một âm nữa là “soát”. (Danh) Quả cân sáu lạng.</div><p data-duid="hHH63xPkP8iI6_2wQS2PjA" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Noi theo.<br />
-② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br />
-③ Ðại suất 大率 cũng như nói đại khái.<br />
-④ Làm nên, làm đích.<br />
-⑤ Hấp tấp, khinh xuất.<br />
-⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br />
-⑦ Cái lưới bắt chim.<br />
-⑧ Dùng.<br />
-⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br />
-⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br />
+				<div class="hvres-meaning han-clickable">① Noi theo.<br>
+② Lĩnh, suất. Như suất tử kị tôn 率子曁孫 suất con và cháu.<br>
+③ Ðại suất 大率 cũng như nói đại khái.<br>
+④ Làm nên, làm đích.<br>
+⑤ Hấp tấp, khinh xuất.<br>
+⑥ Tính thẳng, không ưa lời văn hoa phiền phức.<br>
+⑦ Cái lưới bắt chim.<br>
+⑧ Dùng.<br>
+⑨ Một âm là suý. Cùng nghĩa với chữ suý.<br>
+⑩ Lại một âm là luật. Luật nhất định, như toán thuật chi hữu định luật 算術之有定率 phép tính có luật nhất định.<br>
 ⑪ Một âm nữa là soát. Quả cân sáu lạng.</div><p data-duid="z-iG1mqskQyEtv6m7gnqYw" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">① Tỉ lệ, suất, mức: 出勤率 Tỉ lệ đi làm; 效率 Hiệu suất; 人口增長率 Mức tăng nhân khẩu; <br />
-② (văn) Tiêu chuẩn, quy cách, luật nhất định: 算術之有定率 Thuật toán có luật nhất định; 有軍功者，各以率受上爵 Người có công đánh trận, đều ban cho tước vị cao theo tiêu chuẩn (Sử kí: Thương Quân liệt truyện); <br />
-③ (văn) Tính toán; <br />
+				<div class="hvres-meaning han-clickable">① Tỉ lệ, suất, mức: 出勤率 Tỉ lệ đi làm; 效率 Hiệu suất; 人口增長率 Mức tăng nhân khẩu; <br>
+② (văn) Tiêu chuẩn, quy cách, luật nhất định: 算術之有定率 Thuật toán có luật nhất định; 有軍功者，各以率受上爵 Người có công đánh trận, đều ban cho tước vị cao theo tiêu chuẩn (Sử kí: Thương Quân liệt truyện); <br>
+③ (văn) Tính toán; <br>
 ④ [Lđç] (Họ) Suất. Xem 率 [shuài].</div><p data-duid="kysanya4YXNEwSrBfZhXFg" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">① Dẫn, chỉ huy: 率領 Dẫn dắt, lãnh đạo; 率兵 Cầm quân, chỉ huy quân đội; <br />
-② (văn) Người đứng đầu quân, chủ tướng, tướng suý (soái) (dùng như 帥, bộ 巾): 將率不能則兵弱 Tướng soái (súy) không giỏi thì quân yếu (Tuân tử); <br />
-③ Nông nổi, nhẹ dạ, tùy tiện, khinh suất: 不要輕率地處理問題 Không nên tùy tiện giải quyết vấn đề. 【率爾】 suất nhĩ [shuài&#039;âr] (văn) Không thận trọng, thiếu suy nghĩ, bộp chộp: 子路率爾而對 Tử Lộ bộp chộp trả lời (Luận ngữ); <br />
-④ Thẳng thắn, ngay thẳng: 率宜地批評 Phê bình thẳng thắn; <br />
-⑤ Đại khái: 大率如此 Đại khái là như thế; <br />
-⑥ (văn) Noi theo, men theo: 率彼淮浦 Men theo con sông Hoài kia (Thi Kinh); 率由舊章Noi theo quy định cũ (Thi Kinh); 率性之謂道 Noi theo tính gọi là đạo (Trung dung); <br />
-⑦ (văn) Làm nêu, làm đích; <br />
-⑧ (văn) Lưới bắt chim; <br />
+				<div class="hvres-meaning han-clickable">① Dẫn, chỉ huy: 率領 Dẫn dắt, lãnh đạo; 率兵 Cầm quân, chỉ huy quân đội; <br>
+② (văn) Người đứng đầu quân, chủ tướng, tướng suý (soái) (dùng như 帥, bộ 巾): 將率不能則兵弱 Tướng soái (súy) không giỏi thì quân yếu (Tuân tử); <br>
+③ Nông nổi, nhẹ dạ, tùy tiện, khinh suất: 不要輕率地處理問題 Không nên tùy tiện giải quyết vấn đề. 【率爾】 suất nhĩ [shuài&#039;âr] (văn) Không thận trọng, thiếu suy nghĩ, bộp chộp: 子路率爾而對 Tử Lộ bộp chộp trả lời (Luận ngữ); <br>
+④ Thẳng thắn, ngay thẳng: 率宜地批評 Phê bình thẳng thắn; <br>
+⑤ Đại khái: 大率如此 Đại khái là như thế; <br>
+⑥ (văn) Noi theo, men theo: 率彼淮浦 Men theo con sông Hoài kia (Thi Kinh); 率由舊章Noi theo quy định cũ (Thi Kinh); 率性之謂道 Noi theo tính gọi là đạo (Trung dung); <br>
+⑦ (văn) Làm nêu, làm đích; <br>
+⑧ (văn) Lưới bắt chim; <br>
 ⑨ (văn) Dùng. Xem 率 [lđç].</div><p data-duid="ug-INrTHWKDfcMulfG19yQ" class="hvres-source">Từ điển Nguyễn Quốc Hùng</p>
 				<div class="hvres-meaning han-clickable">Tuân theo. Như chữ Suất 摔 — Cai quản. Td: Thống suất — Đóng góp thâu góp — Phần đóng góp nhất định — Cái phép tắc nhất định — Sơ hở. Chểnh mảng. Td: Sơ suất — Nhẹ nhàng. Xem Suất nhiên 率然.</div><p class="hvres-source">Từ ghép <span class="badge">23</span></p>
 				<div class="hvres-meaning han-clickable small"><a href="/whv/百分率">bách phân suất 百分率</a> • <a href="/whv/表率">biểu suất 表率</a> • <a href="/whv/功率">công suất 功率</a> • <a href="/whv/效率">hiệu suất 效率</a> • <a href="/whv/匯率">hối suất 匯率</a> • <a href="/whv/輕率">khinh suất 輕率</a> • <a href="/whv/利率">lợi suất 利率</a> • <a href="/whv/密率">mật suất 密率</a> • <a href="/whv/能率">năng suất 能率</a> • <a href="/whv/差率">sai suất 差率</a> • <a href="/whv/疏率">sơ suất 疏率</a> • <a href="/whv/率職">suất chức 率職</a> • <a href="/whv/率隊">suất đội 率隊</a> • <a href="/whv/率領">suất lĩnh 率領</a> • <a href="/whv/率旅">suất lữ 率旅</a> • <a href="/whv/率略">suất lược 率略</a> • <a href="/whv/率然">suất nhiên 率然</a> • <a href="/whv/率土">suất thổ 率土</a> • <a href="/whv/率先">suất tiên 率先</a> • <a href="/whv/率性">suất tính 率性</a> • <a href="/whv/躁率">táo suất 躁率</a> • <a href="/whv/坦率">thản suất 坦率</a> • <a href="/whv/統率">thống suất 統率</a></div>	</div>
-			</div></div>
-				</div></section>
-	
-		<div id="footer" style="clear:both">
-			&nbsp;
-		</div>
-				
-		<script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
-		</html>
+			</div>	</div>
+				</div>
+			</div>	<footer class="small">
+				<span>&copy; 2001-2023</span>
+				<div id="dark-mode-selector" class="dropdown">
+					<span class="dropdown-btn"><i class="fas fa-fw fa-adjust"></i> Màu giao diện <i class="fa fa-caret-down"></i></span>
+					<div class="dropdown-content align-right z-high"><span class="dropdown-item" data-value="light"><i class="fas fa-fw fa-sun"></i> Luôn sáng</span><span class="dropdown-item" data-value="dark"><i class="fas fa-fw fa-moon"></i> Luôn tối</span><span class="dropdown-item active" data-value="by-system"><i class="fas fa-fw fa-window-maximize"></i> Tự động: theo trình duyệt</span><span class="dropdown-item" data-value="by-time"><i class="fas fa-fw fa-clock"></i> Tự động: theo thời gian ngày/đêm</span></div>
+				</div>
+			</footer>	</section><script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
+	</html>

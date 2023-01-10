@@ -1,9 +1,9 @@
 <!doctype html>
 		<html lang="vi">
 		<head>
-			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 棧" />
-			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn" />
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 棧">
+			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn">
 			
 			<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
 			<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
@@ -14,7 +14,7 @@
 			<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
 			<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
 			<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
-			<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+			<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/android-icon-192x192.png">
 			<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
 			<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -24,16 +24,15 @@
 			<meta name="theme-color" content="#ffffff">
 
 			<title>Tra từ: 棧 - Từ điển Hán Nôm</title>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type=text/css rel=stylesheet>
-		<link href="/style.1590385402.css" type=text/css rel=stylesheet>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type="text/css" rel="stylesheet">
+		<link href="/style.1649305351.css" type="text/css" rel="stylesheet">
 
 		<script type="text/javascript">
-			var _UseMobileView = false,
-				_UrlRewrite = true,
+			const _UrlRewrite = true,
 				_UrlBase = "/";
 		</script>
 		<script type="text/javascript" src="/libjs/jquery-2.2.4.min.1586829527.js"></script>
-		<script type="text/javascript" src="/scripts.1613359947.js"></script>
+		<script type="text/javascript" src="/scripts.1642564303.js"></script>
 		
 		<script type="text/javascript">
 window.onscroll = LP_OnScroll;
@@ -47,13 +46,25 @@ $(LP_OnStartup);
 			ga('create', 'UA-31319182-2', 'thivien.net');
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
-			</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+			</script><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5466764586357052" crossorigin="anonymous"></script><script>
 			  (adsbygoogle = window.adsbygoogle || []).push({
 				google_ad_client: "ca-pub-5466764586357052",
 				enable_page_level_ads: true
 			  });
+			</script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> 
+			<script> 
+			window.googletag = window.googletag || {cmd: []}; 
+			googletag.cmd.push(function() {
+				googletag.defineSlot("/27973503/Publishers/Desktop/Large1/thivien.net", [[300, 600]], "div-gpt-ad-1632973737400-0").addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest(); 
+				googletag.enableServices(); 
+			}); 
 			</script></head>
-		<body style="background-image:url('/images/background.jpg')"><div id="fb-root"></div>
+		<body>
+		
+		<script>
+		if (UsingDarkMode()) ApplyDarkMode(true);
+		</script><div id="fb-root"></div>
 			<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
@@ -67,106 +78,83 @@ $(LP_OnStartup);
 				<nav>
 					<a class="menu-icon" href="javascript:void(0)"></a>
 					
-					<ul class="menu"><li class="menu-item current""><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
-					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
-					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán ⇒ phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm ⇒ chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể ⇒ giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể ⇒ phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
+					<ul class="menu"><li class="menu-item current"><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
+					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/reading/1/1" class="menu-title">Theo âm Nhật (onyomi)</a></li><li class="menu-item"><a href="/reading/1/2" class="menu-title">Theo âm Nhật (kunyomi)</a></li><li class="menu-item"><a href="/reading/1/3" class="menu-title">Theo âm Hàn</a></li><li class="menu-item"><a href="/reading/1/4" class="menu-title">Theo âm Quảng Đông</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
+					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán <i class="fas fa-arrow-right gray"></i> phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm <i class="fas fa-arrow-right gray"></i> chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể <i class="fas fa-arrow-right gray"></i> giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể <i class="fas fa-arrow-right gray"></i> phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
 					<ul class="submenu"><li class="menu-item"><a href="/applications.php" class="menu-title">Cài đặt ứng dụng</a></li><li class="menu-item"><a href="/writing.php" class="menu-title">Học viết chữ Hán</a></li><li class="menu-item"><a href="/fonts.php" class="menu-title">Font chữ Hán Nôm</a></li></ul></li><li class="menu-item"><a href="/comment.php" class="menu-title">Góp ý</a></li>			</ul>
 				</nav>
 			</div>
 		</header>
 
-		<section><div style="width:100%; overflow-x:hidden">
-				<div class="fb-like" data-href="/" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
-			</div><div style="text-align:center"><div style="margin:10px 0">
+		<section><div class="fb-plugin-container" style="width:100%; overflow-x:hidden" data-type="like" data-href="/"></div><div style="text-align:center"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="horizontal"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
-			</div></div><div>
-				<div class="right-col"><!-- HVDic-BigCol -->
-				<ins class="adsbygoogle"
-					 style="display:inline-block;width:300px;height:600px"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="1091155526"></ins>
+			</div></div><div class="main-content">
+				<div class="ads-col"><!-- HVDic-BigCol -->
+				<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5466764586357052" data-ad-slot="1091155526"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 				
-				<p />
-				
-				<div>
-					<div id="FloatingAds" style="margin:auto">
-						<script type="text/javascript" src="https://e.eclick.vn/delivery/zone/2272.js"></script>
+				<div class="sticky-top" style="margin-top: 5px">
+					<div id="div-gpt-ad-1632973737400-0" style="min-width: 300px; min-height: 250px;">
+					<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1632973737400-0"); });</script>
 					</div>
 				</div></div>
-				<div class="main-content">
+				<div class="content-col">
+					<div class="sticky-top">
 <form id="LookupForm" class="main-form" method="GET" action="/" data-lang="1" onsubmit="OnLookupFormSubmitted(event)">
-	<input type="text" readonly class="main-input with-vbtn" name="Value" autofocus placeholder="車 车 xa xe che1 chē" accesskey="1" value="棧" />
+	<input type="text" readonly="" class="main-input" name="Value" autofocus="" placeholder="車 车 xa xe che1 chē" accesskey="1" value="棧">
 	
 	<div class="vbtn-group">
-		<button type="button" disabled class="mode-selector">文</button><!--
-	 --><button type="button" disabled class="type-selector"><i class="fas fa-dice"></i></button><!--
-	 --><button type="button" disabled class="vnkb-btn" accesskey='v'>V</button>
+		<button type="button" disabled="" class="mode-selector">文</button><!--
+	 --><button type="button" disabled="" class="type-selector"><i class="fas fa-dice"></i></button><!--
+	 --><button type="button" disabled="" class="vnkb-btn" accesskey='v'>V</button>
 	</div>
 
-	<input type="hidden" name="Mode" value="2" />
-	<input type="hidden" name="Type" value="3" />
+	<input type="hidden" name="Mode" value="2">
+	<input type="hidden" name="Type" value="3">
 
 	<p class="alert small" style="display:none"></p>
 	
 	<div class="main-form-row" style="text-align: center">
-<button type="button" disabled class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
+<button type="button" disabled="" class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled="" class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled="" class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
 
 </form>
 
 <div class="info">
 					<h2>Có 5 kết quả:</h2>
-					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">chăn</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">sạn</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">trăn</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">trản</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">xiễn</span></div></div><div class="hvres"><div style="margin:10px 0">
-				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div></div><div class="hvres han-word">
+					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">chăn</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">sạn</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">trăn</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">trản</span> • <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">xiễn</span></div></div><div class="hvres han-word">
 				<div class="hvres-header">		<div class="hvres-word han"><a href="/whv/棧">棧</a></div>			<div class="hvres-definition single">			</div>
 				</div>
 
-				<div class="hvres-details"><p</p>
+				<div class="hvres-details"><>
 				<div class="hvres-meaning"><span class="hvres-animation"><div class="anim-img hanzi-writer" data-word="棧" data-graphics="{&quot;strokes&quot;:[&quot;M 340 516 Q 353 522 370 526 Q 412 541 418 547 Q 425 556 420 564 Q 413 576 382 580 Q 358 583 340 575 L 296 556 Q 188 514 98 495 Q 61 485 90 471 Q 135 450 190 470 Q 229 483 273 495 L 340 516 Z&quot;,&quot;M 339 421 Q 339 467 340 516 L 340 575 Q 340 692 359 764 Q 372 791 348 808 Q 332 820 302 837 Q 278 853 257 838 Q 253 834 259 817 Q 293 768 293 718 Q 294 645 297 561 Q 296 560 296 556 L 293 431 Q 290 218 285 184 Q 263 64 263 61 Q 263 49 283 2 Q 290 -16 298 -19 Q 305 -26 312 -17 Q 319 -13 330 8 Q 340 33 338 65 Q 337 105 339 393 L 339 421 Z&quot;,&quot;M 273 495 Q 216 371 51 177 Q 45 167 56 166 Q 62 165 72 173 Q 207 279 293 431 C 342 517 287 524 273 495 Z&quot;,&quot;M 339 393 Q 346 387 359 379 Q 378 364 398 347 Q 411 337 425 339 Q 434 340 437 352 Q 440 365 430 390 Q 418 412 351 420 Q 344 421 339 421 C 309 422 316 412 339 393 Z&quot;,&quot;M 636 637 Q 661 653 690 668 Q 720 686 723 691 Q 729 701 722 707 Q 712 714 685 713 Q 663 712 614 676 L 580 653 Q 573 650 567 645 Q 527 621 477 600 Q 447 584 475 577 Q 520 570 562 596 Q 581 608 603 619 L 636 637 Z&quot;,&quot;M 691 511 Q 749 453 807 422 Q 889 383 915 389 Q 930 393 917 429 Q 910 451 905 506 Q 905 534 895 545 Q 888 552 885 539 Q 869 463 853 458 Q 834 451 778 483 Q 744 504 718 531 L 695 556 Q 664 590 636 637 L 614 676 Q 578 740 577 790 Q 578 818 539 827 Q 496 840 474 831 Q 468 828 468 819 Q 468 813 477 805 Q 513 790 552 703 Q 565 678 580 653 L 603 619 Q 634 573 671 532 L 691 511 Z&quot;,&quot;M 671 532 Q 620 489 618 484 Q 614 477 624 476 Q 639 476 691 511 L 718 531 Q 754 558 795 599 Q 814 620 828 628 Q 837 635 835 646 Q 834 656 816 677 Q 800 695 785 698 Q 770 699 773 681 Q 782 648 708 570 Q 701 564 695 556 L 671 532 Z&quot;,&quot;M 702 804 Q 727 780 754 753 Q 766 741 779 741 Q 789 741 793 753 Q 797 766 791 791 Q 787 810 758 825 Q 689 850 680 847 Q 676 843 676 832 Q 679 822 702 804 Z&quot;,&quot;M 611 312 Q 632 324 657 335 Q 685 350 690 355 Q 696 364 690 370 Q 680 379 653 379 Q 617 379 595 356 L 557 333 Q 544 327 534 321 Q 495 302 447 284 Q 416 271 444 261 Q 483 252 537 277 Q 553 286 574 294 L 611 312 Z&quot;,&quot;M 653 151 Q 746 7 877 -53 Q 950 -78 966 -63 Q 982 -51 970 -19 Q 960 8 945 112 Q 944 131 938 134 Q 934 135 931 117 Q 912 33 894 18 Q 885 12 852 27 Q 756 75 684 177 L 658 218 Q 657 221 655 224 Q 628 270 611 312 L 595 356 Q 583 407 583 437 Q 586 462 543 473 Q 509 483 494 476 Q 478 470 493 449 Q 518 425 557 333 L 574 294 Q 599 242 629 189 L 653 151 Z&quot;,&quot;M 629 189 Q 572 138 428 62 Q 419 59 428 55 Q 443 52 530 80 Q 531 81 535 82 Q 571 97 653 151 L 684 177 Q 720 207 768 250 Q 778 260 786 264 Q 793 267 795 276 Q 795 286 787 299 Q 766 332 734 336 Q 725 336 725 324 Q 722 290 658 218 L 629 189 Z&quot;,&quot;M 646 428 Q 689 392 710 394 Q 720 395 722 411 Q 721 421 710 435 Q 686 454 645 449 Q 638 449 639 440 Q 639 433 646 428 Z&quot;],&quot;medians&quot;:[[[91,484],[150,483],[363,553],[408,557]],[[268,832],[315,789],[323,766],[315,259],[301,66],[303,-5]],[[291,495],[281,485],[262,422],[203,333],[126,240],[58,174]],[[344,414],[406,376],[423,353]],[[473,589],[497,591],[545,609],[661,680],[715,699]],[[481,820],[511,810],[543,790],[580,694],[633,608],[698,527],[753,477],[825,436],[879,431],[892,494],[893,537]],[[783,687],[800,647],[783,623],[703,540],[624,482]],[[683,838],[752,796],[779,756]],[[443,273],[521,291],[625,348],[680,363]],[[500,462],[518,456],[549,431],[572,351],[642,205],[705,114],[772,46],[858,-9],[885,-19],[922,-19],[931,22],[939,129]],[[738,324],[751,293],[749,281],[644,172],[541,104],[493,80],[431,59]],[[651,439],[686,425],[706,409]]],&quot;radStrokes&quot;:[0,1,2,3]}">
 				<svg class="pad">
-					<rect width="100%" height="100%" />
-					<line x1="0" y1="0" x2="100%" y2="100%" />
-					<line x1="0" y1="100%" x2="100%" y2="0" />
-					<line x1="0" y1="50%" x2="100%" y2="50%" />
-					<line x1="50%" y1="0" x2="50%" y2="100%" />
+					<rect width="100%" height="100%"></rect>
+					<line x1="0" y1="0" x2="100%" y2="100%"></line>
+					<line x1="0" y1="100%" x2="100%" y2="0"></line>
+					<line x1="0" y1="50%" x2="100%" y2="50%"></line>
+					<line x1="50%" y1="0" x2="50%" y2="100%"></line>
 				</svg>
-			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">chăn</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">sạn</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">trăn</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">trản</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">xiễn</span><br/>Tổng nét: 12<br/>Bộ: <a href="/rad-hv/木">mộc 木</a> (+8 nét)<br/>Lục thư: hình thanh<br/>Hình thái: <a href="/whv/⿰">⿰</a><a href="/whv/木">木</a><a href="/whv/戔">戔</a><br/>Nét bút: <a href="/strokes-hv?Strokes=一丨ノ丶一フノ丶一フノ丶">一丨ノ丶一フノ丶一フノ丶</a><br/>Thương Hiệt: DII (木戈戈)<br/>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=68E7" target="_blank">U+68E7</a><br/>Độ thông dụng trong Hán ngữ cổ: trung bình<br/>Độ thông dụng trong tiếng Trung hiện đại: trung bình</div><p class="hvres-source">Âm đọc khác</p>
-				<div class="hvres-meaning">Âm Pinyin: <a href="/py/zhan4">zhàn</a><br/>Âm Nôm: <a href="/nom/sàn">sàn</a>, <a href="/nom/sến">sến</a><br/>Âm Nhật (onyomi): <a href="/reading/1/1/サン">サン (san)</a>, <a href="/reading/1/1/セン">セン (sen)</a><br/>Âm Nhật (kunyomi): <a href="/reading/1/2/かけはし">かけはし (kakehashi)</a><br/>Âm Hàn: <a href="/reading/1/3/잔">잔</a>, <a href="/reading/1/3/전">전</a><br/>Âm Quảng Đông: <a href="/reading/1/4/zaan2">zaan2</a>, <a href="/reading/1/4/zaan6">zaan6</a></div><p class="hvres-source">Tự hình <span class="badge">2</span></p>
+			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">chăn</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="2">sạn</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="3">trăn</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="4">trản</span>, <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="5">xiễn</span><br>Tổng nét: 12<br>Bộ: <a href="/rad-hv/木">mộc 木</a> (+8 nét)<br>Lục thư: hình thanh<br>Hình thái: <a href="/whv/⿰">⿰</a><a href="/whv/木">木</a><a href="/whv/戔">戔</a><br>Nét bút: <a href="/strokes-hv?Strokes=一丨ノ丶一フノ丶一フノ丶">一丨ノ丶一フノ丶一フノ丶</a><br>Thương Hiệt: DII (木戈戈)<br>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=68E7" target="_blank">U+68E7</a><br>Độ thông dụng trong Hán ngữ cổ: trung bình<br>Độ thông dụng trong tiếng Trung hiện đại: trung bình</div><p class="hvres-source">Âm đọc khác</p>
+				<div class="hvres-meaning">Âm Pinyin: <a href="/py/zhan4">zhàn <span class="small gray han">ㄓㄢˋ</span></a><br>Âm Nôm: <a href="/nom/sàn">sàn</a>, <a href="/nom/sến">sến</a><br>Âm Nhật (onyomi): <a href="/reading/1/1/サン">サン (san)</a>, <a href="/reading/1/1/セン">セン (sen)</a><br>Âm Nhật (kunyomi): <a href="/reading/1/2/かけはし">かけはし (kakehashi)</a><br>Âm Hàn: <a href="/reading/1/3/잔">잔</a>, <a href="/reading/1/3/전">전</a><br>Âm Quảng Đông: <a href="/reading/1/4/zaan2">zaan2</a>, <a href="/reading/1/4/zaan6">zaan6</a></div><p class="hvres-source">Tự hình <span class="badge">2</span></p>
 				<div class="hvres-meaning"><span data-tippy-placement="bottom" data-tippy-content="Triện văn">
-					<img class="hvres-variant-img lazy" data-original="/pic/xz/LMZWtUt0yZqj7pEXxsZgrw.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
-					<img class="hvres-variant-img lazy" data-original="/pic/kt/LMZWtUt0yZqj7pEXxsZgrw.gif" /></span></div><p class="hvres-source">Dị thể <span class="badge">6</span></p>
-				<div class="hvres-meaning"><a href="/whv/栈"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Giản thể">&#26632;</span></a><a href="/whv/桟"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#26719;</span></a><a href="/whv/椾"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#26942;</span></a><a href="/whv/碊"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#30858;</span></a><a href="/whv/轏"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#36687;</span></a><a href="/whv/𢯆"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#142278;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Một số bài thơ có sử dụng</p>
-				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/B%E1%BB%93i-ch%C6%B0-c%C3%B4ng-th%C6%B0%E1%BB%9Bng-B%E1%BA%A1ch-%C4%90%E1%BA%BF-th%C3%A0nh-y%E1%BA%BFn-Vi%E1%BB%87t-c%C3%B4ng-%C4%91%C6%B0%E1%BB%9Dng-chi-t%C3%A1c-B%E1%BB%93i-ch%C6%B0-c%C3%B4ng-B%E1%BA%A1ch-%C4%90%E1%BA%BF-th%C3%A0nh-%C4%91%E1%BA%A7u-y%E1%BA%BFn/poem-Szh039zRSMu2uZl9PtjjKA">Bồi chư công thướng Bạch Đế thành yến Việt công đường chi tác [Bồi chư công Bạch Đế thành đầu yến Việt công đường chi tác] - 陪諸公上白帝城宴越公堂之作《陪諸公白帝城頭宴越公堂之作》</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Quang-B%C3%ADch/D%E1%BA%A1-ch%C3%AD-l%C3%A2m-trung-v%C3%B4-nh%C3%A2n-gia-k%E1%BA%BFt-li%C3%AAu-vi-tr%C3%BA/poem-C55jLV5qtmcLFpkmwMUnzQ">Dạ chí lâm trung vô nhân gia kết liêu vi trú - 夜至林中無人家結寮爲住</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-Quang-B%C3%ADch/author-8mt7NYTrWG0XGzG7oOwfaw">Nguyễn Quang Bích</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Th%E1%BA%A9m-%C4%90%E1%BB%A9c-Ti%E1%BB%81m/H%C3%A1-b%C3%A1ch-b%E1%BB%99-v%C3%A2n-th%C3%AA-qu%C3%A1-Li%C3%AAn-Hoa-c%C3%A2u-xuy%C3%AAn-Ngao-Ng%C6%B0-%C4%91%E1%BB%99ng-t%C3%A1c/poem-zhJE_mNqFtUiUd-TP4W39A">Há bách bộ vân thê quá Liên Hoa câu xuyên Ngao Ngư động tác - 下百步雲棲過蓮華沟穿鰲魚洞作</a> (<a href="https://www.thivien.net/Th%E1%BA%A9m-%C4%90%E1%BB%A9c-Ti%E1%BB%81m/author-RNpImmo2Zi_8n8IJeKR5eg">Thẩm Đức Tiềm</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/K%C3%BD-Nh%E1%BA%A1c-Ch%C3%A2u-Gi%E1%BA%A3-t%C6%B0-m%C3%A3-l%E1%BB%A5c-tr%C6%B0%E1%BB%A3ng-Ba-Ch%C3%A2u-Nghi%C3%AAm-b%C3%A1t-s%E1%BB%A9-qu%C3%A2n-l%C6%B0%E1%BB%A1ng-c%C3%A1c-l%C3%A3o-ng%C5%A9-th%E1%BA%ADp-v%E1%BA%ADn/poem-EIg64qLyc1Dqi6QQkVPfZQ">Ký Nhạc Châu Giả tư mã lục trượng, Ba Châu Nghiêm bát sứ quân lưỡng các lão ngũ thập vận - 寄岳州賈司馬六丈、巴州嚴八使君兩閣老五十韻</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Tr%E1%BB%8Bnh-Ho%C3%A0i-%C4%90%E1%BB%A9c/Lo%E1%BA%A1n-h%E1%BA%ADu-c%E1%BB%ADu-nh%E1%BA%ADt-%C4%91%C4%83ng-Mai-kh%C3%A2u/poem-t3C5gZucL_e1zwkwMZ0ccA">Loạn hậu cửu nhật đăng Mai khâu - 亂後九日登梅邱</a> (<a href="https://www.thivien.net/Tr%E1%BB%8Bnh-Ho%C3%A0i-%C4%90%E1%BB%A9c/author-il2-xU_Q-nIFla-ypApHCA">Trịnh Hoài Đức</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Tr%C6%B0%C6%A1ng-Nguy%C3%AAn-C%C3%A1n/M%C3%A3n-giang-h%E1%BB%93ng-T%E1%BB%B1-D%E1%BB%B1-Ch%C6%B0%C6%A1ng-tr%E1%BB%9F-phong-Ng%C3%B4-Th%C3%A0nh-s%C6%A1n-t%C3%A1c/poem-rpw_feWBqErNK10ng1Jotg">Mãn giang hồng - Tự Dự Chương trở phong Ngô Thành sơn tác - 滿江紅－自豫章阻風吳城山作</a> (<a href="https://www.thivien.net/Tr%C6%B0%C6%A1ng-Nguy%C3%AAn-C%C3%A1n/author-XtDwgc81LrI5SWqmLkXQ1Q">Trương Nguyên Cán</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Phi-Ti%C3%AAn-c%C3%A1c/poem-VlMQ4n7BxcRr1aylxfExlw">Phi Tiên các - 飛仙閣</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Tr%E1%BA%A7n-Cung-Do%C3%A3n/Th%E1%BB%A5c-trung/poem-wxuv8HKfluaqkw__7oZlQQ">Thục trung - 蜀中</a> (<a href="https://www.thivien.net/Tr%E1%BA%A7n-Cung-Do%C3%A3n/author-8wX_f--qBGvseLM4iD_Z7A">Trần Cung Doãn</a>)<br/>• <a target="_blank" href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/Tr%C6%B0%E1%BB%9Dng-h%E1%BA%ADn-ca/poem-NNj51-ebZyApj8ndjN6_VQ">Trường hận ca - 長恨歌</a> (<a href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/author-GTDxHQP8eUITUxph4otjnA">Bạch Cư Dị</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/T%E1%BB%B1-L%C3%A3ng-Ch%C3%A2u-l%C4%A9nh-th%C3%AA-t%E1%BB%AD-kh%C6%B0%E1%BB%9Bc-ph%C3%B3-Th%E1%BB%A5c-s%C6%A1n-h%C3%A0nh-k%E1%BB%B3-2/poem-oGNR4km4XoOrITfR0z5v0w">Tự Lãng Châu lĩnh thê tử khước phó Thục sơn hành kỳ 2 - 自閬州領妻子卻赴蜀山行其二</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/></div>	</div>
+					<img class="hvres-variant-img lazy" data-original="/pic/xz/LMZWtUt0yZqj7pEXxsZgrw.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
+					<img class="hvres-variant-img lazy" data-original="/pic/kt/LMZWtUt0yZqj7pEXxsZgrw.gif"></span></div><p class="hvres-source">Dị thể <span class="badge">6</span></p>
+				<div class="hvres-meaning"><a href="/whv/栈"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Giản thể">&#26632;</span></a><a href="/whv/桟"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#26719;</span></a><a href="/whv/椾"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#26942;</span></a><a href="/whv/碊"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#30858;</span></a><a href="/whv/轏"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#36687;</span></a><a href="/whv/𢯆"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#142278;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Chữ gần giống <span class="badge">1</span></p>
+				<div class="hvres-meaning"><a href="/whv/䏼"><span class="hvres-variant han" data-tippy-placement="bottom">&#x43FC;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Một số bài thơ có sử dụng</p>
+				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/Th%E1%BA%A9m-%C4%90%E1%BB%A9c-Ti%E1%BB%81m/H%C3%A1-b%C3%A1ch-b%E1%BB%99-v%C3%A2n-th%C3%AA-qu%C3%A1-Li%C3%AAn-Hoa-c%C3%A2u-xuy%C3%AAn-Ngao-Ng%C6%B0-%C4%91%E1%BB%99ng-t%C3%A1c/poem-zhJE_mNqFtUiUd-TP4W39A">Há bách bộ vân thê quá Liên Hoa câu xuyên Ngao Ngư động tác - 下百步雲棲過蓮華沟穿鰲魚洞作</a> (<a href="https://www.thivien.net/Th%E1%BA%A9m-%C4%90%E1%BB%A9c-Ti%E1%BB%81m/author-RNpImmo2Zi_8n8IJeKR5eg">Thẩm Đức Tiềm</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Long-M%C3%B4n-tr%E1%BA%A5n/poem-Ecjy8fs4G7pDuf9-E3x_-Q">Long Môn trấn - 龍門鎮</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/Tr%C6%B0%C6%A1ng-Nguy%C3%AAn-C%C3%A1n/M%C3%A3n-giang-h%E1%BB%93ng-T%E1%BB%B1-D%E1%BB%B1-Ch%C6%B0%C6%A1ng-tr%E1%BB%9F-phong-Ng%C3%B4-Th%C3%A0nh-s%C6%A1n-t%C3%A1c/poem-rpw_feWBqErNK10ng1Jotg">Mãn giang hồng - Tự Dự Chương trở phong Ngô Thành sơn tác - 滿江紅－自豫章阻風吳城山作</a> (<a href="https://www.thivien.net/Tr%C6%B0%C6%A1ng-Nguy%C3%AAn-C%C3%A1n/author-XtDwgc81LrI5SWqmLkXQ1Q">Trương Nguyên Cán</a>)<br>• <a target="_blank" href="https://www.thivien.net/Cao-B%C3%A1-Qu%C3%A1t/Man-ph%E1%BB%A5-h%C3%A0nh/poem-KJN5tsLol60-b4VrQaFSQw">Man phụ hành - 蠻婦行</a> (<a href="https://www.thivien.net/Cao-B%C3%A1-Qu%C3%A1t/author-2eyz08Vw3mwjAHFJik43sA">Cao Bá Quát</a>)<br>• <a target="_blank" href="https://www.thivien.net/T%C3%A2n-Kh%C3%AD-T%E1%BA%ADt/T%C3%A2y-giang-nguy%E1%BB%87t-D%E1%BA%A1-h%C3%A0nh-Ho%C3%A0ng-Sa-%C4%91%E1%BA%A1o-trung/poem-fi0AnZEbTlY085rk8ctF-w">Tây giang nguyệt - Dạ hành Hoàng Sa đạo trung - 西江月－夜行黃沙道中</a> (<a href="https://www.thivien.net/T%C3%A2n-Kh%C3%AD-T%E1%BA%ADt/author-cR0yq4BrF6xGIKZCvJGLSA">Tân Khí Tật</a>)<br>• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-B%C3%A1-Th%C3%B4ng/Thi%C3%AAn-H%C6%B0ng-tr%E1%BA%A5n-ph%C3%BA/poem-zfk8LWGL0mEgBMai1LRNPA">Thiên Hưng trấn phú - 天興鎮賦</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-B%C3%A1-Th%C3%B4ng/author-UlfffDmWp64stOugtjh9rQ">Nguyễn Bá Thông</a>)<br>• <a target="_blank" href="https://www.thivien.net/L%C3%BD-B%E1%BA%A1ch/Th%E1%BB%A5c-%C4%91%E1%BA%A1o-nan/poem-vwkwYNzCnKHaayHMN3KvlQ">Thục đạo nan - 蜀道難</a> (<a href="https://www.thivien.net/L%C3%BD-B%E1%BA%A1ch/author-8WYDeeki5xZo8eD-k6Sk5A">Lý Bạch</a>)<br>• <a target="_blank" href="https://www.thivien.net/L%C3%BD-B%E1%BA%A1ch/T%E1%BB%91ng-h%E1%BB%AFu-nh%C3%A2n-nh%E1%BA%ADp-Th%E1%BB%A5c/poem-NmkVnhCwuj9haAQzkoWKZQ">Tống hữu nhân nhập Thục - 送友人入蜀</a> (<a href="https://www.thivien.net/L%C3%BD-B%E1%BA%A1ch/author-8WYDeeki5xZo8eD-k6Sk5A">Lý Bạch</a>)<br>• <a target="_blank" href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/Tr%C6%B0%E1%BB%9Dng-h%E1%BA%ADn-ca/poem-NNj51-ebZyApj8ndjN6_VQ">Trường hận ca - 長恨歌</a> (<a href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/author-GTDxHQP8eUITUxph4otjnA">Bạch Cư Dị</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/V%C6%B0%C6%A1ng-m%E1%BB%87nh/poem-or4O8igrn_Yd3BJJEEFDOg">Vương mệnh - 王命</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br></div>	</div>
 			</div><div class="hvres-nav-dock">
 					<a class="hvres-nav-btn hvres-nav-up" href="javascript:void(0)" onclick="ScrollToPrev()" ondblclick="ScrollTo(0)" accesskey=","><i class="hvres-nav-btn-arrow"></i></a>
 					<p class="hvres-nav-idx"><span class="hvres-nav-idx-val">1</span>/5</p>
 					<a class="hvres-nav-btn hvres-nav-down" href="javascript:void(0)" onclick="ScrollToNext()" ondblclick="ScrollTo('bottom')" accesskey="."><i class="hvres-nav-btn-arrow"></i></a>
 				</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -175,50 +163,46 @@ $(LP_OnStartup);
 				</div>
 
 				<div class="hvres-details"><p data-duid="n_ZlHE1DP0WEcxPGbFhuwg" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br />
-2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br />
-3. (Danh) Xe bằng tre.<br />
-4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br />
-5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br>
+2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br>
+3. (Danh) Xe bằng tre.<br>
+4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br>
+5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br>
 6. Lại một âm nữa là “chăn”. (Tính) “Chăn chăn” 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div><p data-duid="TCHHqHFDcqKmnjnYTwwV3g" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br />
-② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br />
-③ Xe bằng tre.<br />
-④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br />
-⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br>
+② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br>
+③ Xe bằng tre.<br>
+④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br>
+⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br>
 ⑥ Lại một âm nữa là chăn. Chăn chăn 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div>	</div>
 			</div><div class="hvres" name="pl8e7b1afbf9" data-hvres-idx="2">
 				<div class="hvres-header">			<div class="hvres-definition no-word">			<p class="hvres-spell"><a href="/hv/sạn">sạn</a><span class="hvres-operations"> <i class="fas fa-link icon icon-hoverable" data-tippy-content="Copy liên kết" onclick="CopyURLToClipboard(location.origin+'/whv/棧#pl8e7b1afbf9')"></i></span>			</p>			<p class="hvres-info gray small">phồn thể</p>			</div>
 				</div>
 
 				<div class="hvres-details"><p data-duid="PpjdWY-3NYXMEZOVZU3Alw" class="hvres-source">Từ điển phổ thông</p>
-				<div class="hvres-meaning han-clickable">1. nhà kho<br />
+				<div class="hvres-meaning han-clickable">1. nhà kho<br>
 2. quán trọ</div><p data-duid="CBVgZevYNq9ySBJcGOD6Nw" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br />
-2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br />
-3. (Danh) Xe bằng tre.<br />
-4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br />
-5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br>
+2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br>
+3. (Danh) Xe bằng tre.<br>
+4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br>
+5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br>
 6. Lại một âm nữa là “chăn”. (Tính) “Chăn chăn” 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div><p data-duid="hPRVf1egDJCOZ7YXbiSb8g" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br />
-② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br />
-③ Xe bằng tre.<br />
-④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br />
-⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br>
+② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br>
+③ Xe bằng tre.<br>
+④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br>
+⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br>
 ⑥ Lại một âm nữa là chăn. Chăn chăn 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div><p data-duid="aL18v1QuXVchNxfMKx2pCQ" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">① Kho, quán, khách sạn: 貨棧 Kho hàng; 客棧 Quán trọ, khách sạn; <br />
-② Tàu, chuồng: 馬棧 Tàu ngựa; 羊棧 Chuồng dê; <br />
-③ (văn) Cầu treo; <br />
+				<div class="hvres-meaning han-clickable">① Kho, quán, khách sạn: 貨棧 Kho hàng; 客棧 Quán trọ, khách sạn; <br>
+② Tàu, chuồng: 馬棧 Tàu ngựa; 羊棧 Chuồng dê; <br>
+③ (văn) Cầu treo; <br>
 ④ (văn) Xe bằng tre.</div><p data-duid="FAIxdMpetpSuesrfo9EqIg" class="hvres-source">Từ điển Nguyễn Quốc Hùng</p>
 				<div class="hvres-meaning han-clickable">Nhà mát, để tiếp khách, có mái che mà không có tường xung quanh — Nhà kho để chứa hàng hoá, đồ vật — Đường đi bằng ván bắc trên cao — Quán trọ. Td: Khách sạn.</div><p class="hvres-source">Từ ghép <span class="badge">4</span></p>
 				<div class="hvres-meaning han-clickable small"><a href="/whv/客棧">khách sạn 客棧</a> • <a href="/whv/棧道">sạn đạo 棧道</a> • <a href="/whv/棧單">sạn đơn 棧單</a> • <a href="/whv/棧房">sạn phòng 棧房</a></div>	</div>
 			</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -227,17 +211,17 @@ $(LP_OnStartup);
 				</div>
 
 				<div class="hvres-details"><p data-duid="REFNq2d4e7RjpBAvkydTBg" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br />
-2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br />
-3. (Danh) Xe bằng tre.<br />
-4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br />
-5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br>
+2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br>
+3. (Danh) Xe bằng tre.<br>
+4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br>
+5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br>
 6. Lại một âm nữa là “chăn”. (Tính) “Chăn chăn” 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div><p data-duid="djAtyjAPKtPOryJ-464wag" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br />
-② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br />
-③ Xe bằng tre.<br />
-④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br />
-⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br>
+② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br>
+③ Xe bằng tre.<br>
+④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br>
+⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br>
 ⑥ Lại một âm nữa là chăn. Chăn chăn 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div>	</div>
 			</div><div class="hvres" name="pl6f648f6ceb" data-hvres-idx="4">
 				<div class="hvres-header">			<div class="hvres-definition no-word">			<p class="hvres-spell"><a href="/hv/trản">trản</a><span class="hvres-operations"> <i class="fas fa-link icon icon-hoverable" data-tippy-content="Copy liên kết" onclick="CopyURLToClipboard(location.origin+'/whv/棧#pl6f648f6ceb')"></i></span>			</p>			<p class="hvres-info gray small">phồn thể</p>			</div>
@@ -247,11 +231,7 @@ $(LP_OnStartup);
 				<div class="hvres-meaning han-clickable">Cái chuông nhỏ — Xem Sạn.</div>	</div>
 			</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -260,24 +240,25 @@ $(LP_OnStartup);
 				</div>
 
 				<div class="hvres-details"><p data-duid="oBeLwG_5Ybi34R6DeiOJDQ" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br />
-2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br />
-3. (Danh) Xe bằng tre.<br />
-4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br />
-5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">1. (Danh) Cầu treo, đường xếp bằng gỗ. ◎Như: Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là “sạn đạo” 棧道. ◇Bạch Cư Dị 白居易: “Vân sạn oanh hu đăng Kiếm Các” 雲棧縈紆登劍閣 (Trường hận ca 長恨歌) Đường mây khuất khúc, quanh co đi lên Kiếm Các. Tản Đà dịch thơ: Đường thang mây Kiếm Các lần đi.<br>
+2. (Danh) Nhà quán để xếp hàng hóa và cho khách trọ. ◎Như: “hóa sạn” 貨棧 kho chứa, “khách sạn” 客棧 quán trọ.<br>
+3. (Danh) Xe bằng tre.<br>
+4. Một âm là “xiễn”. (Danh) Cái chuồng, chuồng đóng bằng gỗ hay tre cho giống muông ở.<br>
+5. Một âm nữa là “trăn”. (Danh) Cái chuông nhỏ.<br>
 6. Lại một âm nữa là “chăn”. (Tính) “Chăn chăn” 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div><p data-duid="w4lOoEW1g7CyUTg3FTncvQ" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br />
-② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br />
-③ Xe bằng tre.<br />
-④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br />
-⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br />
+				<div class="hvres-meaning han-clickable">① Cầu treo, xếp gỗ làm đường gọi là sạn đạo 棧道. Những chỗ núi non hiểm trở phải đục hai bên sườn núi đá mà bắc ván gỗ làm đường đi gọi là sạn đạo.<br>
+② Nhà quán để xếp hàng hoá và cho khách trọ gọi là sạn, như hoá sạn 貨棧 kho chứa, khách sạn 客棧 quán trọ.<br>
+③ Xe bằng tre.<br>
+④ Một âm là xiễn. Cái chuồng, đóng tre gỗ làm chuồng cho giống muông ở gọi là xiễn.<br>
+⑤ Một âm nữa là trăn. Cái chuông nhỏ.<br>
 ⑥ Lại một âm nữa là chăn. Chăn chăn 棧棧 bùm tum, tả cái vẻ tốt tươi và nhiều.</div>	</div>
-			</div></div>
-				</div></section>
-	
-		<div id="footer" style="clear:both">
-			&nbsp;
-		</div>
-				
-		<script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
-		</html>
+			</div>	</div>
+				</div>
+			</div>	<footer class="small">
+				<span>&copy; 2001-2023</span>
+				<div id="dark-mode-selector" class="dropdown">
+					<span class="dropdown-btn"><i class="fas fa-fw fa-adjust"></i> Màu giao diện <i class="fa fa-caret-down"></i></span>
+					<div class="dropdown-content align-right z-high"><span class="dropdown-item" data-value="light"><i class="fas fa-fw fa-sun"></i> Luôn sáng</span><span class="dropdown-item" data-value="dark"><i class="fas fa-fw fa-moon"></i> Luôn tối</span><span class="dropdown-item active" data-value="by-system"><i class="fas fa-fw fa-window-maximize"></i> Tự động: theo trình duyệt</span><span class="dropdown-item" data-value="by-time"><i class="fas fa-fw fa-clock"></i> Tự động: theo thời gian ngày/đêm</span></div>
+				</div>
+			</footer>	</section><script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
+	</html>

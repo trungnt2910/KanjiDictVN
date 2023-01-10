@@ -1,9 +1,9 @@
 <!doctype html>
 		<html lang="vi">
 		<head>
-			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 状" />
-			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn" />
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 状">
+			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn">
 			
 			<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
 			<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
@@ -14,7 +14,7 @@
 			<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
 			<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
 			<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
-			<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+			<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/android-icon-192x192.png">
 			<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
 			<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -24,16 +24,15 @@
 			<meta name="theme-color" content="#ffffff">
 
 			<title>Tra từ: 状 - Từ điển Hán Nôm</title>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type=text/css rel=stylesheet>
-		<link href="/style.1590385402.css" type=text/css rel=stylesheet>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type="text/css" rel="stylesheet">
+		<link href="/style.1649305351.css" type="text/css" rel="stylesheet">
 
 		<script type="text/javascript">
-			var _UseMobileView = false,
-				_UrlRewrite = true,
+			const _UrlRewrite = true,
 				_UrlBase = "/";
 		</script>
 		<script type="text/javascript" src="/libjs/jquery-2.2.4.min.1586829527.js"></script>
-		<script type="text/javascript" src="/scripts.1613359947.js"></script>
+		<script type="text/javascript" src="/scripts.1642564303.js"></script>
 		
 		<script type="text/javascript">
 window.onscroll = LP_OnScroll;
@@ -47,13 +46,25 @@ $(LP_OnStartup);
 			ga('create', 'UA-31319182-2', 'thivien.net');
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
-			</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+			</script><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5466764586357052" crossorigin="anonymous"></script><script>
 			  (adsbygoogle = window.adsbygoogle || []).push({
 				google_ad_client: "ca-pub-5466764586357052",
 				enable_page_level_ads: true
 			  });
+			</script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> 
+			<script> 
+			window.googletag = window.googletag || {cmd: []}; 
+			googletag.cmd.push(function() {
+				googletag.defineSlot("/27973503/Publishers/Desktop/Large1/thivien.net", [[300, 600]], "div-gpt-ad-1632973737400-0").addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest(); 
+				googletag.enableServices(); 
+			}); 
 			</script></head>
-		<body style="background-image:url('/images/background.jpg')"><div id="fb-root"></div>
+		<body>
+		
+		<script>
+		if (UsingDarkMode()) ApplyDarkMode(true);
+		</script><div id="fb-root"></div>
 			<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
@@ -67,93 +78,73 @@ $(LP_OnStartup);
 				<nav>
 					<a class="menu-icon" href="javascript:void(0)"></a>
 					
-					<ul class="menu"><li class="menu-item current""><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
-					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
-					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán ⇒ phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm ⇒ chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể ⇒ giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể ⇒ phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
+					<ul class="menu"><li class="menu-item current"><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
+					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/reading/1/1" class="menu-title">Theo âm Nhật (onyomi)</a></li><li class="menu-item"><a href="/reading/1/2" class="menu-title">Theo âm Nhật (kunyomi)</a></li><li class="menu-item"><a href="/reading/1/3" class="menu-title">Theo âm Hàn</a></li><li class="menu-item"><a href="/reading/1/4" class="menu-title">Theo âm Quảng Đông</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
+					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán <i class="fas fa-arrow-right gray"></i> phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm <i class="fas fa-arrow-right gray"></i> chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể <i class="fas fa-arrow-right gray"></i> giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể <i class="fas fa-arrow-right gray"></i> phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
 					<ul class="submenu"><li class="menu-item"><a href="/applications.php" class="menu-title">Cài đặt ứng dụng</a></li><li class="menu-item"><a href="/writing.php" class="menu-title">Học viết chữ Hán</a></li><li class="menu-item"><a href="/fonts.php" class="menu-title">Font chữ Hán Nôm</a></li></ul></li><li class="menu-item"><a href="/comment.php" class="menu-title">Góp ý</a></li>			</ul>
 				</nav>
 			</div>
 		</header>
 
-		<section><div style="width:100%; overflow-x:hidden">
-				<div class="fb-like" data-href="/" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
-			</div><div style="text-align:center"><div style="margin:10px 0">
+		<section><div class="fb-plugin-container" style="width:100%; overflow-x:hidden" data-type="like" data-href="/"></div><div style="text-align:center"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="horizontal"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
-			</div></div><div>
-				<div class="right-col"><!-- HVDic-BigCol -->
-				<ins class="adsbygoogle"
-					 style="display:inline-block;width:300px;height:600px"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="1091155526"></ins>
+			</div></div><div class="main-content">
+				<div class="ads-col"><!-- HVDic-BigCol -->
+				<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5466764586357052" data-ad-slot="1091155526"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 				
-				<p />
-				
-				<div>
-					<div id="FloatingAds" style="margin:auto">
-						<script type="text/javascript" src="https://e.eclick.vn/delivery/zone/2272.js"></script>
+				<div class="sticky-top" style="margin-top: 5px">
+					<div id="div-gpt-ad-1632973737400-0" style="min-width: 300px; min-height: 250px;">
+					<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1632973737400-0"); });</script>
 					</div>
 				</div></div>
-				<div class="main-content">
+				<div class="content-col">
+					<div class="sticky-top">
 <form id="LookupForm" class="main-form" method="GET" action="/" data-lang="1" onsubmit="OnLookupFormSubmitted(event)">
-	<input type="text" readonly class="main-input with-vbtn" name="Value" autofocus placeholder="車 车 xa xe che1 chē" accesskey="1" value="状" />
+	<input type="text" readonly="" class="main-input" name="Value" autofocus="" placeholder="車 车 xa xe che1 chē" accesskey="1" value="状">
 	
 	<div class="vbtn-group">
-		<button type="button" disabled class="mode-selector">文</button><!--
-	 --><button type="button" disabled class="type-selector"><i class="fas fa-dice"></i></button><!--
-	 --><button type="button" disabled class="vnkb-btn" accesskey='v'>V</button>
+		<button type="button" disabled="" class="mode-selector">文</button><!--
+	 --><button type="button" disabled="" class="type-selector"><i class="fas fa-dice"></i></button><!--
+	 --><button type="button" disabled="" class="vnkb-btn" accesskey='v'>V</button>
 	</div>
 
-	<input type="hidden" name="Mode" value="2" />
-	<input type="hidden" name="Type" value="3" />
+	<input type="hidden" name="Mode" value="2">
+	<input type="hidden" name="Type" value="3">
 
 	<p class="alert small" style="display:none"></p>
 	
 	<div class="main-form-row" style="text-align: center">
-<button type="button" disabled class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
+<button type="button" disabled="" class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled="" class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled="" class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
 
 </form>
 
 <div class="info">
 					<h2>Có 1 kết quả:</h2>
-					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">trạng</span></div></div><div class="hvres"><div style="margin:10px 0">
-				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div></div><div class="hvres han-word">
+					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">trạng</span></div></div><div class="hvres han-word">
 				<div class="hvres-header">		<div class="hvres-word han"><a href="/whv/状">状</a></div>			<div class="hvres-definition single">			</div>
 				</div>
 
-				<div class="hvres-details"><p</p>
+				<div class="hvres-details"><>
 				<div class="hvres-meaning"><span class="hvres-animation"><div class="anim-img hanzi-writer" data-word="状" data-graphics="{&quot;strokes&quot;:[&quot;M 169 578 Q 197 550 229 515 Q 242 500 259 500 Q 271 499 277 513 Q 283 528 276 560 Q 270 593 167 629 Q 151 633 144 631 Q 138 627 139 614 Q 142 602 169 578 Z&quot;,&quot;M 332 421 Q 125 262 80 248 Q 68 242 70 231 Q 71 218 84 213 Q 112 206 151 199 Q 161 199 171 212 Q 186 237 312 367 Q 322 377 331 388 C 350 411 356 439 332 421 Z&quot;,&quot;M 331 388 Q 322 211 318 180 Q 297 75 298 74 Q 298 59 317 18 Q 323 0 331 -3 Q 337 -9 344 -1 Q 351 3 362 23 Q 372 48 371 78 Q 370 124 382 560 Q 383 650 401 710 Q 410 725 407 738 Q 400 748 346 781 Q 324 797 303 783 Q 299 779 304 763 Q 334 720 335 646 Q 335 534 332 421 L 331 388 Z&quot;,&quot;M 635 427 Q 828 466 834 471 Q 844 478 839 488 Q 832 500 802 508 Q 771 515 741 504 Q 690 488 638 474 L 591 464 Q 519 452 439 445 Q 402 441 428 422 Q 467 395 527 408 Q 555 414 586 419 L 635 427 Z&quot;,&quot;M 629 366 Q 632 394 635 427 L 638 474 Q 656 703 662 717 Q 680 762 674 772 L 671 775 Q 649 794 607 807 Q 582 814 572 807 Q 562 800 570 787 Q 610 721 591 464 L 586 419 Q 586 316 532 218 Q 472 143 405 100 Q 392 91 392 87 Q 393 83 406 83 Q 419 79 454 93 Q 569 135 612 278 Q 619 303 624 331 L 629 366 Z&quot;,&quot;M 624 331 Q 693 211 784 82 Q 800 60 831 59 Q 934 52 968 55 Q 978 56 980 61 Q 981 65 968 74 Q 833 141 792 179 Q 717 254 629 366 C 610 390 609 357 624 331 Z&quot;,&quot;M 747 635 Q 772 610 798 582 Q 810 569 825 568 Q 835 568 841 581 Q 845 594 839 624 Q 833 651 745 681 Q 730 685 724 683 Q 720 679 720 667 Q 723 657 747 635 Z&quot;],&quot;medians&quot;:[[[149,623],[228,566],[260,518]],[[85,234],[144,239],[316,391],[322,405]],[[314,777],[342,753],[364,723],[358,467],[346,179],[335,79],[336,10]],[[431,435],[452,428],[501,427],[645,450],[767,483],[828,482]],[[579,796],[606,778],[629,752],[618,490],[597,315],[568,231],[527,172],[478,127],[399,86]],[[633,348],[638,331],[739,195],[820,106],[973,61]],[[729,677],[805,620],[824,586]]],&quot;radStrokes&quot;:[3,4,5,6]}">
 				<svg class="pad">
-					<rect width="100%" height="100%" />
-					<line x1="0" y1="0" x2="100%" y2="100%" />
-					<line x1="0" y1="100%" x2="100%" y2="0" />
-					<line x1="0" y1="50%" x2="100%" y2="50%" />
-					<line x1="50%" y1="0" x2="50%" y2="100%" />
+					<rect width="100%" height="100%"></rect>
+					<line x1="0" y1="0" x2="100%" y2="100%"></line>
+					<line x1="0" y1="100%" x2="100%" y2="0"></line>
+					<line x1="0" y1="50%" x2="100%" y2="50%"></line>
+					<line x1="50%" y1="0" x2="50%" y2="100%"></line>
 				</svg>
-			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">trạng</span><br/>Tổng nét: 7<br/>Bộ: <a href="/rad-hv/犬">khuyển 犬</a> (+3 nét)<br/>Lục thư: hình thanh<br/>Hình thái: <a href="/whv/⿰">⿰</a><a href="/whv/丬">丬</a><a href="/whv/犬">犬</a><br/>Nét bút: <a href="/strokes-hv?Strokes=丶一丨一ノ丶丶">丶一丨一ノ丶丶</a><br/>Thương Hiệt: LMIK (中一戈大)<br/>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=72B6" target="_blank">U+72B6</a><br/>Độ thông dụng trong Hán ngữ cổ: rất cao<br/>Độ thông dụng trong tiếng Trung hiện đại: rất cao</div><p class="hvres-source">Âm đọc khác</p>
-				<div class="hvres-meaning">Âm Pinyin: <a href="/py/zhuang4">zhuàng</a><br/>Âm Nôm: <a href="/nom/trạng">trạng</a><br/>Âm Nhật (onyomi): <a href="/reading/1/1/ジョウ">ジョウ (jō)</a><br/>Âm Hàn: <a href="/reading/1/3/장">장</a>, <a href="/reading/1/3/상">상</a><br/>Âm Quảng Đông: <a href="/reading/1/4/zong6">zong6</a></div><p class="hvres-source">Tự hình <span class="badge">2</span></p>
+			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">trạng</span><br>Tổng nét: 7<br>Bộ: <a href="/rad-hv/犬">khuyển 犬</a> (+3 nét)<br>Lục thư: hình thanh<br>Hình thái: <a href="/whv/⿰">⿰</a><a href="/whv/丬">丬</a><a href="/whv/犬">犬</a><br>Nét bút: <a href="/strokes-hv?Strokes=丶一丨一ノ丶丶">丶一丨一ノ丶丶</a><br>Thương Hiệt: LMIK (中一戈大)<br>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=72B6" target="_blank">U+72B6</a><br>Độ thông dụng trong Hán ngữ cổ: rất cao<br>Độ thông dụng trong tiếng Trung hiện đại: rất cao</div><p class="hvres-source">Âm đọc khác</p>
+				<div class="hvres-meaning">Âm Pinyin: <a href="/py/zhuang4">zhuàng <span class="small gray han">ㄓㄨㄤˋ</span></a><br>Âm Nôm: <a href="/nom/trạng">trạng</a><br>Âm Nhật (onyomi): <a href="/reading/1/1/ジョウ">ジョウ (jō)</a><br>Âm Hàn: <a href="/reading/1/3/장">장</a>, <a href="/reading/1/3/상">상</a><br>Âm Quảng Đông: <a href="/reading/1/4/zong6">zong6</a></div><p class="hvres-source">Tự hình <span class="badge">2</span></p>
 				<div class="hvres-meaning"><span data-tippy-placement="bottom" data-tippy-content="Triện văn">
-					<img class="hvres-variant-img lazy" data-original="/pic/xz2/zplfa_BBu0l4ptmiTUnAPw.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
-					<img class="hvres-variant-img lazy" data-original="/pic/kt/zplfa_BBu0l4ptmiTUnAPw.gif" /></span></div><p class="hvres-source">Dị thể <span class="badge">1</span></p>
+					<img class="hvres-variant-img lazy" data-original="/pic/xz2/zplfa_BBu0l4ptmiTUnAPw.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
+					<img class="hvres-variant-img lazy" data-original="/pic/kt/zplfa_BBu0l4ptmiTUnAPw.gif"></span></div><p class="hvres-source">Dị thể <span class="badge">1</span></p>
 				<div class="hvres-meaning"><a href="/whv/狀"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Phồn thể">&#29376;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div>	</div>
 			</div><div class="hvres-nav-dock">
 					<a class="hvres-nav-btn hvres-nav-up" href="javascript:void(0)" onclick="ScrollToPrev()" ondblclick="ScrollTo(0)" accesskey=","><i class="hvres-nav-btn-arrow"></i></a>
@@ -161,11 +152,7 @@ $(LP_OnStartup);
 					<a class="hvres-nav-btn hvres-nav-down" href="javascript:void(0)" onclick="ScrollToNext()" ondblclick="ScrollTo('bottom')" accesskey="."><i class="hvres-nav-btn-arrow"></i></a>
 				</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -174,24 +161,25 @@ $(LP_OnStartup);
 				</div>
 
 				<div class="hvres-details"><p data-duid="65_thg43cgjVII5gFdkOSQ" class="hvres-source">Từ điển phổ thông</p>
-				<div class="hvres-meaning han-clickable">1. hình dáng<br />
+				<div class="hvres-meaning han-clickable">1. hình dáng<br>
 2. trạng (người đỗ đầu kỳ thi)</div><p data-duid="CteVoTpYBG1XGugd7KM0Xg" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. Giản thể của chữ 狀.</div><p data-duid="k5MD7aFtaa5uiFNCRNHeJA" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">Như 狀</div><p data-duid="moEvXKZRqzUIysyP5ZjAbA" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">① Hình, hình dáng, hình dạng: 奇形怪狀 Hình dạng quái gở; <br />
-② Tình hình, tình trạng: 病狀 Bệnh tình; 狀況 Tình trạng; <br />
-③ Tả, kể: 文字不足狀其事 Không bút nào tả xiết việc này; <br />
-④ Bằng, giấy, thư: 獎狀 Bằng khen, giấy khen; 委任狀 Giấy uỷ nhiệm; 信用狀 Thư tín dụng; <br />
-⑤ (cũ) Bài trạng (để giãi bày sự thực về một việc gì với thần thánh vua quan); <br />
-⑥ (cũ) Đơn kiện: 訴狀 Đơn tố cáo.</div><p data-duid="mAFJRCECtJho3kYBtrDeIg" class="hvres-source">Từ điển Nguyễn Quốc Hùng</p>
+				<div class="hvres-meaning han-clickable">1. Giản thể của chữ 狀.</div><p data-duid="moEvXKZRqzUIysyP5ZjAbA" class="hvres-source">Từ điển Trần Văn Chánh</p>
+				<div class="hvres-meaning han-clickable">① Hình, hình dáng, hình dạng: 奇形怪狀 Hình dạng quái gở; <br>
+② Tình hình, tình trạng: 病狀 Bệnh tình; 狀況 Tình trạng; <br>
+③ Tả, kể: 文字不足狀其事 Không bút nào tả xiết việc này; <br>
+④ Bằng, giấy, thư: 獎狀 Bằng khen, giấy khen; 委任狀 Giấy uỷ nhiệm; 信用狀 Thư tín dụng; <br>
+⑤ (cũ) Bài trạng (để giãi bày sự thực về một việc gì với thần thánh vua quan); <br>
+⑥ (cũ) Đơn kiện: 訴狀 Đơn tố cáo.</div><p data-duid="k5MD7aFtaa5uiFNCRNHeJA" class="hvres-source">Từ điển Trần Văn Chánh</p>
+				<div class="hvres-meaning han-clickable">Như 狀</div><p data-duid="mAFJRCECtJho3kYBtrDeIg" class="hvres-source">Từ điển Nguyễn Quốc Hùng</p>
 				<div class="hvres-meaning han-clickable">Như chữ 狀.</div><p class="hvres-source">Từ ghép <span class="badge">3</span></p>
 				<div class="hvres-meaning han-clickable small"><a href="/whv/形状">hình trạng 形状</a> • <a href="/whv/令状">lệnh trạng 令状</a> • <a href="/whv/状元">trạng nguyên 状元</a></div>	</div>
-			</div></div>
-				</div></section>
-	
-		<div id="footer" style="clear:both">
-			&nbsp;
-		</div>
-				
-		<script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
-		</html>
+			</div>	</div>
+				</div>
+			</div>	<footer class="small">
+				<span>&copy; 2001-2023</span>
+				<div id="dark-mode-selector" class="dropdown">
+					<span class="dropdown-btn"><i class="fas fa-fw fa-adjust"></i> Màu giao diện <i class="fa fa-caret-down"></i></span>
+					<div class="dropdown-content align-right z-high"><span class="dropdown-item" data-value="light"><i class="fas fa-fw fa-sun"></i> Luôn sáng</span><span class="dropdown-item" data-value="dark"><i class="fas fa-fw fa-moon"></i> Luôn tối</span><span class="dropdown-item active" data-value="by-system"><i class="fas fa-fw fa-window-maximize"></i> Tự động: theo trình duyệt</span><span class="dropdown-item" data-value="by-time"><i class="fas fa-fw fa-clock"></i> Tự động: theo thời gian ngày/đêm</span></div>
+				</div>
+			</footer>	</section><script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
+	</html>

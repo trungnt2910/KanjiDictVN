@@ -21,6 +21,11 @@ internal static class Utilities
         }
     }
 
+    public static IEnumerable<HtmlNode> Children(this HtmlNode htmlNode)
+    {
+        return htmlNode.ChildNodes.Where(n => n.NodeType == HtmlNodeType.Element);
+    }
+
     public static string GetPlainText(this HtmlNode htmlNode)
     {
         var html = htmlNode.OuterHtml;

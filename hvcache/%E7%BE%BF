@@ -51,12 +51,6 @@ $(LP_OnStartup);
 				google_ad_client: "ca-pub-5466764586357052",
 				enable_page_level_ads: true
 			  });
-			</script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-			<script>
-			window.googletag = window.googletag || {cmd: []};
-			googletag.cmd.push(function() {googletag.defineSlot("/182251254/Ureka_Supply_hvdic.thivien.net_inpageMB_1x1_121021", [1, 1], "div-gpt-ad-1634031503276-0").addService(googletag.pubads());googletag.pubads().collapseEmptyDivs();
-				googletag.enableServices();
-			});
 			</script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> 
 			<script> 
 			window.googletag = window.googletag || {cmd: []}; 
@@ -77,11 +71,7 @@ $(LP_OnStartup);
 			  js = d.createElement(s); js.id = id;
 			  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=456842347781417&version=v2.0";
 			  fjs.parentNode.insertBefore(js, fjs);
-			}(document, "script", "facebook-jssdk"));</script><div id="div-gpt-ad-1634031503276-0">
-				<script>
-					googletag.cmd.push(function() { googletag.display("div-gpt-ad-1634031503276-0"); });
-				</script>
-			</div><header>
+			}(document, "script", "facebook-jssdk"));</script><header>
 			<div id="header-content">
 				<a href="/"><h1>Từ điển Hán Nôm</h1></a>
 				
@@ -181,7 +171,7 @@ $(LP_OnStartup);
 			</div>	</div>
 				</div>
 			</div>	<footer class="small">
-				<span>&copy; 2001-2022</span>
+				<span>&copy; 2001-2023</span>
 				<div id="dark-mode-selector" class="dropdown">
 					<span class="dropdown-btn"><i class="fas fa-fw fa-adjust"></i> Màu giao diện <i class="fa fa-caret-down"></i></span>
 					<div class="dropdown-content align-right z-high"><span class="dropdown-item" data-value="light"><i class="fas fa-fw fa-sun"></i> Luôn sáng</span><span class="dropdown-item" data-value="dark"><i class="fas fa-fw fa-moon"></i> Luôn tối</span><span class="dropdown-item active" data-value="by-system"><i class="fas fa-fw fa-window-maximize"></i> Tự động: theo trình duyệt</span><span class="dropdown-item" data-value="by-time"><i class="fas fa-fw fa-clock"></i> Tự động: theo thời gian ngày/đêm</span></div>

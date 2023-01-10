@@ -1,9 +1,9 @@
 <!doctype html>
 		<html lang="vi">
 		<head>
-			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 藻" />
-			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn" />
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<meta name="description" content="Từ điển Hán Nôm - Tra từ: 藻">
+			<meta name="keywords" content="từ điển,trực tuyến,Hán Việt,Trung Việt,Hán Nôm,chữ Hán,chữ Nôm,tra từ,Thiều Chửu,trích dẫn">
 			
 			<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
 			<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
@@ -14,7 +14,7 @@
 			<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
 			<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
 			<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
-			<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+			<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/android-icon-192x192.png">
 			<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
 			<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -24,16 +24,15 @@
 			<meta name="theme-color" content="#ffffff">
 
 			<title>Tra từ: 藻 - Từ điển Hán Nôm</title>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type=text/css rel=stylesheet>
-		<link href="/style.1590385402.css" type=text/css rel=stylesheet>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type="text/css" rel="stylesheet">
+		<link href="/style.1649305351.css" type="text/css" rel="stylesheet">
 
 		<script type="text/javascript">
-			var _UseMobileView = false,
-				_UrlRewrite = true,
+			const _UrlRewrite = true,
 				_UrlBase = "/";
 		</script>
 		<script type="text/javascript" src="/libjs/jquery-2.2.4.min.1586829527.js"></script>
-		<script type="text/javascript" src="/scripts.1591518900.js"></script>
+		<script type="text/javascript" src="/scripts.1642564303.js"></script>
 		
 		<script type="text/javascript">
 window.onscroll = LP_OnScroll;
@@ -47,13 +46,25 @@ $(LP_OnStartup);
 			ga('create', 'UA-31319182-2', 'thivien.net');
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
-			</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+			</script><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5466764586357052" crossorigin="anonymous"></script><script>
 			  (adsbygoogle = window.adsbygoogle || []).push({
 				google_ad_client: "ca-pub-5466764586357052",
 				enable_page_level_ads: true
 			  });
+			</script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> 
+			<script> 
+			window.googletag = window.googletag || {cmd: []}; 
+			googletag.cmd.push(function() {
+				googletag.defineSlot("/27973503/Publishers/Desktop/Large1/thivien.net", [[300, 600]], "div-gpt-ad-1632973737400-0").addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest(); 
+				googletag.enableServices(); 
+			}); 
 			</script></head>
-		<body style="background-image:url('/images/background.jpg')"><div id="fb-root"></div>
+		<body>
+		
+		<script>
+		if (UsingDarkMode()) ApplyDarkMode(true);
+		</script><div id="fb-root"></div>
 			<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
@@ -67,106 +78,84 @@ $(LP_OnStartup);
 				<nav>
 					<a class="menu-icon" href="javascript:void(0)"></a>
 					
-					<ul class="menu"><li class="menu-item current""><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
-					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
-					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán ⇒ phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm ⇒ chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể ⇒ giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể ⇒ phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
+					<ul class="menu"><li class="menu-item current"><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
+					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/reading/1/1" class="menu-title">Theo âm Nhật (onyomi)</a></li><li class="menu-item"><a href="/reading/1/2" class="menu-title">Theo âm Nhật (kunyomi)</a></li><li class="menu-item"><a href="/reading/1/3" class="menu-title">Theo âm Hàn</a></li><li class="menu-item"><a href="/reading/1/4" class="menu-title">Theo âm Quảng Đông</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
+					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán <i class="fas fa-arrow-right gray"></i> phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm <i class="fas fa-arrow-right gray"></i> chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể <i class="fas fa-arrow-right gray"></i> giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể <i class="fas fa-arrow-right gray"></i> phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
 					<ul class="submenu"><li class="menu-item"><a href="/applications.php" class="menu-title">Cài đặt ứng dụng</a></li><li class="menu-item"><a href="/writing.php" class="menu-title">Học viết chữ Hán</a></li><li class="menu-item"><a href="/fonts.php" class="menu-title">Font chữ Hán Nôm</a></li></ul></li><li class="menu-item"><a href="/comment.php" class="menu-title">Góp ý</a></li>			</ul>
 				</nav>
 			</div>
 		</header>
 
-		<section><div style="width:100%; overflow-x:hidden">
-				<div class="fb-like" data-href="/" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div>
-			</div><div style="text-align:center"><div style="margin:10px 0">
+		<section><div class="fb-plugin-container" style="width:100%; overflow-x:hidden" data-type="like" data-href="/"></div><div style="text-align:center"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="horizontal"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
-			</div></div><div>
-				<div class="right-col"><!-- HVDic-BigCol -->
-				<ins class="adsbygoogle"
-					 style="display:inline-block;width:300px;height:600px"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="1091155526"></ins>
+			</div></div><div class="main-content">
+				<div class="ads-col"><!-- HVDic-BigCol -->
+				<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5466764586357052" data-ad-slot="1091155526"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 				
-				<p />
-				
-				<div>
-					<div id="FloatingAds" style="margin:auto">
-						<script type="text/javascript" src="https://e.eclick.vn/delivery/zone/2272.js"></script>
+				<div class="sticky-top" style="margin-top: 5px">
+					<div id="div-gpt-ad-1632973737400-0" style="min-width: 300px; min-height: 250px;">
+					<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1632973737400-0"); });</script>
 					</div>
 				</div></div>
-				<div class="main-content">
+				<div class="content-col">
+					<div class="sticky-top">
 <form id="LookupForm" class="main-form" method="GET" action="/" data-lang="1" onsubmit="OnLookupFormSubmitted(event)">
-	<input type="text" readonly class="main-input with-vbtn" name="Value" autofocus placeholder="車 车 xa xe che1 chē" accesskey="1" value="藻" />
+	<input type="text" readonly="" class="main-input" name="Value" autofocus="" placeholder="車 车 xa xe che1 chē" accesskey="1" value="藻">
 	
 	<div class="vbtn-group">
-		<button type="button" disabled class="mode-selector">文</button><!--
-	 --><button type="button" disabled class="type-selector"><i class="fas fa-dice"></i></button><!--
-	 --><button type="button" disabled class="vnkb-btn" accesskey='v'>V</button>
+		<button type="button" disabled="" class="mode-selector">文</button><!--
+	 --><button type="button" disabled="" class="type-selector"><i class="fas fa-dice"></i></button><!--
+	 --><button type="button" disabled="" class="vnkb-btn" accesskey='v'>V</button>
 	</div>
 
-	<input type="hidden" name="Mode" value="2" />
-	<input type="hidden" name="Type" value="3" />
+	<input type="hidden" name="Mode" value="2">
+	<input type="hidden" name="Type" value="3">
 
 	<p class="alert small" style="display:none"></p>
 	
 	<div class="main-form-row" style="text-align: center">
-<button type="button" disabled class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
+<button type="button" disabled="" class="submit-btn default" data-lang="1" onclick="OnLookupBtnClicked(this)">Tra Hán Việt</button><button type="button" disabled="" class="submit-btn" data-lang="3" onclick="OnLookupBtnClicked(this)">Tra Nôm</button><button type="button" disabled="" class="submit-btn" data-lang="2" onclick="OnLookupBtnClicked(this)">Tra Pinyin</button>	</div>
 
 </form>
 
 <div class="info">
 					<h2>Có 1 kết quả:</h2>
-					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">tảo</span></div></div><div class="hvres"><div style="margin:10px 0">
-				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div></div><div class="hvres han-word">
+					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">tảo</span></div></div><div class="hvres han-word">
 				<div class="hvres-header">		<div class="hvres-word han"><a href="/whv/藻">藻</a></div>			<div class="hvres-definition single">			</div>
 				</div>
 
-				<div class="hvres-details"><p</p>
+				<div class="hvres-details"><>
 				<div class="hvres-meaning"><span class="hvres-animation"><div class="anim-img hanzi-writer" data-word="藻" data-graphics="{&quot;strokes&quot;:[&quot;M 616 707 Q 683 719 807 711 Q 822 710 827 718 Q 831 728 819 743 Q 771 780 687 761 Q 663 757 639 751 L 584 743 Q 508 733 422 720 L 378 715 Q 288 706 194 696 Q 166 693 186 679 Q 220 655 293 666 Q 339 679 386 685 L 424 692 Q 494 701 574 706 L 616 707 Z&quot;,&quot;M 422 720 Q 418 754 417 780 Q 418 798 399 803 Q 363 821 342 813 Q 326 804 340 787 Q 367 760 378 715 L 386 685 Q 392 655 408 639 Q 421 629 424 640 Q 430 662 424 692 L 422 720 Z&quot;,&quot;M 639 751 Q 643 769 666 800 Q 679 813 670 823 Q 660 839 628 857 Q 613 866 597 859 Q 587 853 594 843 Q 603 822 584 743 L 574 706 Q 564 679 563 655 Q 564 642 579 651 Q 585 655 616 707 L 639 751 Z&quot;,&quot;M 228 572 Q 255 553 284 528 Q 297 518 312 519 Q 321 520 325 532 Q 328 545 318 573 Q 306 600 220 616 Q 205 617 200 615 Q 196 611 198 599 Q 202 589 228 572 Z&quot;,&quot;M 147 448 Q 189 405 221 390 Q 236 389 243 400 Q 249 413 245 428 Q 238 450 221 461 Q 206 470 157 484 Q 141 488 133 484 Q 127 483 130 471 Q 131 461 147 448 Z&quot;,&quot;M 131 131 Q 121 128 122 112 Q 140 43 168 30 Q 175 24 184 27 Q 191 28 191 51 Q 195 93 274 315 Q 280 330 279 335 Q 278 344 270 338 Q 261 332 165 168 Q 155 150 131 131 Z&quot;,&quot;M 495 620 Q 486 624 460 627 Q 450 628 448 624 Q 444 620 451 607 Q 472 574 488 519 Q 492 503 503 492 Q 518 476 521 489 Q 522 495 522 502 L 519 529 Q 509 578 506 596 C 502 617 502 617 495 620 Z&quot;,&quot;M 669 551 Q 684 596 705 606 Q 717 619 705 633 Q 693 643 654 660 Q 641 664 625 659 Q 580 638 495 620 C 466 614 477 590 506 596 Q 507 596 617 621 Q 630 625 635 620 Q 641 614 631 558 C 626 528 659 523 669 551 Z&quot;,&quot;M 522 502 Q 526 502 534 503 Q 577 515 675 527 Q 684 528 684 536 Q 684 540 669 551 L 631 558 Q 625 558 622 556 Q 564 540 519 529 C 490 522 492 500 522 502 Z&quot;,&quot;M 371 440 Q 362 444 336 446 Q 326 447 324 444 Q 320 438 327 427 Q 349 393 367 333 Q 371 315 382 304 Q 398 288 401 301 Q 402 308 402 319 L 398 344 Q 385 402 381 420 C 377 438 377 438 371 440 Z&quot;,&quot;M 505 361 Q 518 409 534 422 Q 550 441 534 452 Q 521 459 501 473 Q 488 482 473 473 Q 446 457 371 440 C 342 433 352 411 381 420 Q 380 421 383 421 Q 420 430 451 437 Q 473 441 478 433 L 467 364 C 462 334 497 332 505 361 Z&quot;,&quot;M 402 319 Q 415 325 516 338 Q 523 339 524 345 Q 524 351 505 361 C 488 370 488 370 467 364 Q 428 352 398 344 C 369 336 374 309 402 319 Z&quot;,&quot;M 616 468 Q 607 472 584 475 Q 575 478 572 473 Q 568 469 574 456 Q 595 419 609 359 Q 612 340 623 329 Q 638 313 641 324 Q 642 333 643 345 L 639 370 Q 629 428 628 446 C 627 464 627 464 616 468 Z&quot;,&quot;M 776 384 Q 788 436 804 451 Q 823 473 803 485 Q 787 494 764 508 Q 748 517 732 507 Q 693 485 616 468 C 587 461 599 439 628 446 Q 677 458 712 465 Q 733 469 738 462 Q 744 456 733 391 C 728 361 769 355 776 384 Z&quot;,&quot;M 643 345 Q 649 344 657 346 Q 697 353 782 360 Q 791 361 792 368 Q 792 372 776 384 C 763 394 763 394 733 391 Q 732 392 730 391 Q 679 378 639 370 C 610 364 613 347 643 345 Z&quot;,&quot;M 595 232 Q 680 244 803 244 Q 860 244 867 253 Q 871 263 857 275 Q 812 311 776 302 Q 706 286 589 267 L 541 259 Q 435 244 315 228 Q 296 227 310 211 Q 323 198 339 194 Q 358 190 372 194 Q 433 212 502 221 L 595 232 Z&quot;,&quot;M 589 267 Q 590 283 592 293 Q 595 305 588 310 Q 567 328 550 336 Q 540 340 532 333 Q 526 330 533 321 Q 540 308 541 259 L 540 197 Q 540 98 528 61 Q 522 25 550 -18 Q 560 -34 567 -38 Q 577 -39 582 -28 Q 592 0 590 28 Q 587 124 587 203 L 589 267 Z&quot;,&quot;M 502 221 Q 454 128 274 26 Q 258 16 272 14 Q 282 11 316 23 Q 359 33 400 60 Q 436 84 477 123 Q 511 154 531 185 Q 535 192 540 197 C 565 228 528 268 502 221 Z&quot;,&quot;M 587 203 Q 654 122 727 46 Q 748 24 783 22 Q 847 18 916 29 Q 934 30 935 35 Q 936 42 923 47 Q 739 116 663 175 Q 639 193 595 232 C 573 252 562 233 587 203 Z&quot;],&quot;medians&quot;:[[[188,689],[207,683],[263,682],[508,718],[717,741],[770,739],[817,724]],[[348,799],[368,791],[388,772],[416,642]],[[601,850],[615,842],[632,812],[572,655]],[[205,609],[276,572],[309,535]],[[140,476],[204,437],[225,410]],[[179,37],[167,64],[164,104],[273,333]],[[456,619],[484,593],[512,492]],[[506,603],[525,614],[627,641],[644,640],[669,618],[655,575],[665,562]],[[527,509],[542,521],[618,538],[676,535]],[[331,439],[359,415],[392,305]],[[380,426],[403,438],[465,453],[495,450],[507,435],[490,383],[474,370]],[[402,325],[412,335],[464,347],[517,345]],[[579,468],[607,440],[633,329]],[[626,466],[635,459],[709,481],[750,486],[772,465],[758,408],[742,402]],[[647,365],[654,359],[738,374],[784,367]],[[312,220],[363,213],[620,255],[786,274],[860,258]],[[540,328],[565,296],[558,45],[569,-28]],[[535,219],[468,142],[415,94],[371,63],[277,19]],[[592,224],[602,206],[667,143],[765,68],[861,45],[930,37]]],&quot;radStrokes&quot;:[0,1,2]}">
 				<svg class="pad">
-					<rect width="100%" height="100%" />
-					<line x1="0" y1="0" x2="100%" y2="100%" />
-					<line x1="0" y1="100%" x2="100%" y2="0" />
-					<line x1="0" y1="50%" x2="100%" y2="50%" />
-					<line x1="50%" y1="0" x2="50%" y2="100%" />
+					<rect width="100%" height="100%"></rect>
+					<line x1="0" y1="0" x2="100%" y2="100%"></line>
+					<line x1="0" y1="100%" x2="100%" y2="0"></line>
+					<line x1="0" y1="50%" x2="100%" y2="50%"></line>
+					<line x1="50%" y1="0" x2="50%" y2="100%"></line>
 				</svg>
-			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">tảo</span><br/>Âm Pinyin: <a href="/py/zao3">zǎo</a><br/>Âm Nôm: <a href="/nom/tang">tang</a>, <a href="/nom/tảo">tảo</a><br/>Âm Nhật (onyomi): <a href="/reading/1/1/ソウ">ソウ (sō)</a><br/>Âm Nhật (kunyomi): <a href="/reading/1/2/も">も (mo)</a><br/>Âm Hàn: <a href="/reading/1/3/조">조</a><br/>Âm Quảng Đông: <a href="/reading/1/4/zou2">zou2</a><br/>Tổng nét: 19<br/>Bộ: <a href="/rad-hv/艸">thảo 艸</a> (+16 nét)<br/>Lục thư: hình thanh<br/>Hình thái: ⿱<a href="/whv/艹">艹</a><a href="/whv/澡">澡</a><br/>Nét bút: <a href="/strokes-hv?Strokes=一丨丨丶丶一丨フ一丨フ一丨フ一一丨ノ丶">一丨丨丶丶一丨フ一丨フ一丨フ一一丨ノ丶</a><br/>Thương Hiệt: TERD (廿水口木)<br/>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=85FB" target="_blank">U+85FB</a><br/>Độ thông dụng trong Hán ngữ cổ: cao<br/>Độ thông dụng trong tiếng Trung hiện đại: cao</div><p class="hvres-source">Tự hình <span class="badge">3</span></p>
+			</div></span>Âm Hán Việt: <span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">tảo</span><br>Tổng nét: 19<br>Bộ: <a href="/rad-hv/艸">thảo 艸</a> (+16 nét)<br>Lục thư: hình thanh<br>Hình thái: <a href="/whv/⿱">⿱</a><a href="/whv/艹">艹</a><a href="/whv/澡">澡</a><br>Nét bút: <a href="/strokes-hv?Strokes=一丨丨丶丶一丨フ一丨フ一丨フ一一丨ノ丶">一丨丨丶丶一丨フ一丨フ一丨フ一一丨ノ丶</a><br>Thương Hiệt: TERD (廿水口木)<br>Unicode: <a href="https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=85FB" target="_blank">U+85FB</a><br>Độ thông dụng trong Hán ngữ cổ: cao<br>Độ thông dụng trong tiếng Trung hiện đại: cao</div><p class="hvres-source">Âm đọc khác</p>
+				<div class="hvres-meaning">Âm Pinyin: <a href="/py/zao3">zǎo <span class="small gray han">ㄗㄠˇ</span></a><br>Âm Nôm: <a href="/nom/tang">tang</a>, <a href="/nom/tảo">tảo</a><br>Âm Nhật (onyomi): <a href="/reading/1/1/ソウ">ソウ (sō)</a><br>Âm Nhật (kunyomi): <a href="/reading/1/2/も">も (mo)</a><br>Âm Hàn: <a href="/reading/1/3/조">조</a><br>Âm Quảng Đông: <a href="/reading/1/4/zou2">zou2</a></div><p class="hvres-source">Tự hình <span class="badge">3</span></p>
 				<div class="hvres-meaning"><span data-tippy-placement="bottom" data-tippy-content="Triện văn">
-					<img class="hvres-variant-img lazy" data-original="/pic/xz2/KuZNqkYmR96hyBOqOJ5Sjg.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Lệ thư">
-					<img class="hvres-variant-img lazy" data-original="/pic/ls/KuZNqkYmR96hyBOqOJ5Sjg.gif" /></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
-					<img class="hvres-variant-img lazy" data-original="/pic/kt/KuZNqkYmR96hyBOqOJ5Sjg.gif" /></span></div><p class="hvres-source">Dị thể <span class="badge">5</span></p>
-				<div class="hvres-meaning"><a href="/whv/薻"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#34235;</span></a><a href="/whv/𧀉"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159753;</span></a><a href="/whv/𧁑"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159825;</span></a><a href="/whv/𧃡"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159969;</span></a><a href="/whv/𧅂"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#160066;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Một số bài thơ có sử dụng</p>
-				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/V%C6%B0%C6%A1ng-Ki%E1%BA%BFn/Cung-t%E1%BB%AB-k%E1%BB%B3-18/poem-oc0I5SCIDdPXdOmPwzTk0w">Cung từ kỳ 18 - 宮詞其十八</a> (<a href="https://www.thivien.net/V%C6%B0%C6%A1ng-Ki%E1%BA%BFn/author-Xw0ALUMVQ06c4vUGFngNbA">Vương Kiến</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Cao-B%C3%A1-Qu%C3%A1t/%C4%90%E1%BB%81-Ph%E1%BB%A5ng-T%C3%A1-s%E1%BB%A9-qu%C3%A2n-ho%E1%BA%A1-l%C3%BD-%C4%91%E1%BB%93/poem--01JYjOfxH4JRCDDIdBeIQ">Đề Phụng Tá sứ quân hoạ lý đồ - 題鳳佐使君畫鯉圖</a> (<a href="https://www.thivien.net/Cao-B%C3%A1-Qu%C3%A1t/author-2eyz08Vw3mwjAHFJik43sA">Cao Bá Quát</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Tuy-L%C3%BD-V%C6%B0%C6%A1ng/%C4%90%C3%B4ng-d%E1%BA%A1-t%E1%BA%A1p-thi/poem-5bL0vJLF_JVJA0dE9Rii9w">Đông dạ tạp thi - 冬夜雜詩</a> (<a href="https://www.thivien.net/Tuy-L%C3%BD-V%C6%B0%C6%A1ng/author-B6iyJCR5kCh5mPMgMOCH1Q">Tuy Lý Vương</a>)<br/>• <a target="_blank" href="https://www.thivien.net/L%C3%BD-T%E1%BB%AB-Minh/Hu%E1%BB%87-S%C6%A1n-k%E1%BB%B7-du/poem-AMC8FXrdgd1HaIHXyhfqdw">Huệ Sơn kỷ du - 惠山紀遊</a> (<a href="https://www.thivien.net/L%C3%BD-T%E1%BB%AB-Minh/author-8I4MjQ4MTWiEVL0RBMXz-w">Lý Từ Minh</a>)<br/>• <a target="_blank" href="https://www.thivien.net/T%C3%A0o-Tuy%E1%BA%BFt-C%E1%BA%A7n/Ng%C6%B0ng-huy-chung-thu%E1%BB%B5/poem-TfNsh13VcGIK-RpKTYm4ng">Ngưng huy chung thuỵ - 凝暉鍾瑞</a> (<a href="https://www.thivien.net/T%C3%A0o-Tuy%E1%BA%BFt-C%E1%BA%A7n/author-1DK3jrzNRQ6A5gusK7iSPw">Tào Tuyết Cần</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%C6%B0%E1%BB%9Dng-Thu%E1%BA%ADn-Chi/Nh%E1%BA%ADt-B%E1%BA%A3n-%C4%91ao-ca/poem-7UXN-z2m_L-LCI3-LnGooA">Nhật Bản đao ca - 日本刀歌</a> (<a href="https://www.thivien.net/%C4%90%C6%B0%E1%BB%9Dng-Thu%E1%BA%ADn-Chi/author-JgUrsWoR_7EUqC7TeRr3SQ">Đường Thuận Chi</a>)<br/>• <a target="_blank" href="https://www.thivien.net/L%C3%AA-Th%C3%A1nh-T%C3%B4ng/Qu%C3%A2n-minh-th%E1%BA%A7n-l%C6%B0%C6%A1ng/poem-4LZLPygbzJT_4XFSxX-FAQ">Quân minh thần lương - 君明臣良</a> (<a href="https://www.thivien.net/L%C3%AA-Th%C3%A1nh-T%C3%B4ng/author-FSJg5-ivZkPUR1nhJkA6Fg">Lê Thánh Tông</a>)<br/>• <a target="_blank" href="https://www.thivien.net/Thanh-T%C3%A2m-t%C3%A0i-nh%C3%A2n/S%E1%BB%9F-Khanh-ho%E1%BA%A1-Ki%E1%BB%81u-t%E1%BA%A1i-Ng%C6%B0ng-B%C3%ADch-l%C3%A2u-t%E1%BB%A9c-c%E1%BA%A3nh-c%E1%BA%A3m-%C4%91%E1%BB%81-thi/poem-QTKCDgRinybg6F5dLA27cw">Sở Khanh hoạ Kiều tại Ngưng Bích lâu tức cảnh cảm đề thi - 楚卿和翹在凝碧樓即景感題詩</a> (<a href="https://www.thivien.net/Thanh-T%C3%A2m-t%C3%A0i-nh%C3%A2n/author-Ry0GXj_uifS6AejvZUIukQ">Thanh Tâm tài nhân</a>)<br/>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Th%C3%A1i-B%C3%ACnh-t%E1%BB%B1-tuy%E1%BB%81n-nh%C3%A3n/poem-B7dXQ8NRFbQt_ao1vjjs6A">Thái Bình tự tuyền nhãn - 太平寺泉眼</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br/>• <a target="_blank" href="https://www.thivien.net/H%C3%A0n-D%C5%A9/T%C6%B0%C6%A1ng-trung/poem-7Udq9h6fJXm538udi9mZdg">Tương trung - 湘中</a> (<a href="https://www.thivien.net/H%C3%A0n-D%C5%A9/author-mXDKUZpgHTE66OhltBCLIw">Hàn Dũ</a>)<br/></div>	</div>
+					<img class="hvres-variant-img lazy" data-original="/pic/xz2/KuZNqkYmR96hyBOqOJ5Sjg.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Lệ thư">
+					<img class="hvres-variant-img lazy" data-original="/pic/ls/KuZNqkYmR96hyBOqOJ5Sjg.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
+					<img class="hvres-variant-img lazy" data-original="/pic/kt/KuZNqkYmR96hyBOqOJ5Sjg.gif"></span></div><p class="hvres-source">Dị thể <span class="badge">5</span></p>
+				<div class="hvres-meaning"><a href="/whv/薻"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#34235;</span></a><a href="/whv/𧀉"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159753;</span></a><a href="/whv/𧁑"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159825;</span></a><a href="/whv/𧃡"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159969;</span></a><a href="/whv/𧅂"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#160066;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Chữ gần giống <span class="badge">2</span></p>
+				<div class="hvres-meaning"><a href="/whv/𤒕"><span class="hvres-variant han" data-tippy-placement="bottom">&#x24495;</span></a><a href="/whv/澡"><span class="hvres-variant han" data-tippy-placement="bottom">&#x6FA1;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Một số bài thơ có sử dụng</p>
+				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/L%E1%BA%A1c-T%C3%A2n-V%C6%B0%C6%A1ng/%C4%90%E1%BA%BF-kinh-thi%C3%AAn/poem-9NRXjE-zAkH_P0dE0rQmRA">Đế kinh thiên - 帝京篇</a> (<a href="https://www.thivien.net/L%E1%BA%A1c-T%C3%A2n-V%C6%B0%C6%A1ng/author-jvbfrjspi2Y6S8b3jeqzpA">Lạc Tân Vương</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/L%C6%B0u-bi%E1%BB%87t-C%C3%B4ng-An-th%C3%A1i-d%E1%BB%8Bch-sa-m%C3%B4n/poem-y4hw-QosnW_T7qHFXEzMCA">Lưu biệt Công An thái dịch sa môn - 留別公安太易沙門</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/Tr%C3%ACnh-H%E1%BA%A1o/Minh-%C4%90%E1%BA%A1o-gia-hu%E1%BA%A5n/poem-3aa2tlihTrwlAHWnLopSow">Minh Đạo gia huấn - 明道家訓</a> (<a href="https://www.thivien.net/Tr%C3%ACnh-H%E1%BA%A1o/author-f6hExEIODG8dBbnhIj50jQ">Trình Hạo</a>)<br>• <a target="_blank" href="https://www.thivien.net/T%C3%A0o-Tuy%E1%BA%BFt-C%E1%BA%A7n/Ng%C6%B0ng-huy-chung-thu%E1%BB%B5/poem-TfNsh13VcGIK-RpKTYm4ng">Ngưng huy chung thuỵ - 凝暉鍾瑞</a> (<a href="https://www.thivien.net/T%C3%A0o-Tuy%E1%BA%BFt-C%E1%BA%A7n/author-1DK3jrzNRQ6A5gusK7iSPw">Tào Tuyết Cần</a>)<br>• <a target="_blank" href="https://www.thivien.net/V%C5%A9-D%C6%B0%C6%A1ng/Ph%E1%BB%A5ng-ho%E1%BA%A1-ng%E1%BB%B1-ch%E1%BA%BF-Th%E1%BA%A3o-th%C6%B0-h%C3%BD-th%C3%A0nh/poem-vzg_Uj6Nhe4yJctsauSlBw">Phụng hoạ ngự chế “Thảo thư hý thành” - 奉和御製草書戲成</a> (<a href="https://www.thivien.net/V%C5%A9-D%C6%B0%C6%A1ng/author-d6YU4KPKjTplShZhxLPIUg">Vũ Dương</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Th%C3%A1i-B%C3%ACnh-t%E1%BB%B1-tuy%E1%BB%81n-nh%C3%A3n/poem-B7dXQ8NRFbQt_ao1vjjs6A">Thái Bình tự tuyền nhãn - 太平寺泉眼</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Th%E1%BA%A3o-%C4%91%C6%B0%E1%BB%9Dng-t%E1%BB%A9c-s%E1%BB%B1/poem-pSDAG6AYgY0bn16jmm3GcQ">Thảo đường tức sự - 草堂即事</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/T%C3%A2n-Kh%C3%AD-T%E1%BA%ADt/Thu%E1%BB%B7-%C4%91i%E1%BB%87u-ca-%C4%91%E1%BA%A7u-Minh-%C3%A2u/poem-WlcrTsqqVcOiF32NrBuFLA">Thuỷ điệu ca đầu - Minh âu - 水調歌頭－盟鷗</a> (<a href="https://www.thivien.net/T%C3%A2n-Kh%C3%AD-T%E1%BA%ADt/author-cR0yq4BrF6xGIKZCvJGLSA">Tân Khí Tật</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/T%E1%BB%91ng-M%E1%BA%A1nh-th%E1%BA%ADp-nh%E1%BB%8B-th%C6%B0%C6%A1ng-t%C3%A0o-ph%C3%B3-%C4%90%C3%B4ng-Kinh-tuy%E1%BB%83n/poem-NkXu1DDEYGID80LncpQjxA">Tống Mạnh thập nhị thương tào phó Đông Kinh tuyển - 送孟十二倉曹赴東京選</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/T%C3%A0o-Phi/%C6%AF-Huy%E1%BB%81n-V%C5%A9-pha-t%C3%A1c/poem-6j0eRkgz9qmB3I_cEHxVFw">Ư Huyền Vũ pha tác - 於玄武陂作</a> (<a href="https://www.thivien.net/T%C3%A0o-Phi/author-_plJ3nwj8cVN02KPZ4P_8g">Tào Phi</a>)<br></div>	</div>
 			</div><div class="hvres-nav-dock">
 					<a class="hvres-nav-btn hvres-nav-up" href="javascript:void(0)" onclick="ScrollToPrev()" ondblclick="ScrollTo(0)" accesskey=","><i class="hvres-nav-btn-arrow"></i></a>
 					<p class="hvres-nav-idx"><span class="hvres-nav-idx-val">1</span>/1</p>
 					<a class="hvres-nav-btn hvres-nav-down" href="javascript:void(0)" onclick="ScrollToNext()" ondblclick="ScrollTo('bottom')" accesskey="."><i class="hvres-nav-btn-arrow"></i></a>
 				</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle"
-					 style="display:block"
-					 data-ad-client="ca-pub-5466764586357052"
-					 data-ad-slot="6998088321"
-					 data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -176,22 +165,23 @@ $(LP_OnStartup);
 
 				<div class="hvres-details"><p data-duid="bVXSx5xZWfg13S8STbQ_bg" class="hvres-source">Từ điển phổ thông</p>
 				<div class="hvres-meaning han-clickable">rong, rêu</div><p data-duid="ctcB2esM-T4qwrnKg1HJ9w" class="hvres-source">Từ điển trích dẫn</p>
-				<div class="hvres-meaning han-clickable">1. (Danh) Rong, chỉ chung các thứ cỏ mọc ở dưới nước. ◎Như: “hải tảo” 海藻 rong biển.<br />
-2. (Danh) Vẻ đẹp, hình thức hoa lệ. § Rong có văn vẻ, cổ nhân dùng để trang sức mũ áo, cho nên cái gì dùng làm cho đẹp đều gọi là “tảo”. ◇Tào Thực 曹植: “Hoa tảo phồn nhục” 華藻繁縟 (Thất khải 七啟) Vẻ hoa lệ đầy dẫy sặc sỡ.<br />
-3. (Danh) Văn chương, văn từ. ◎Như: “từ tảo” 詞藻 văn chương. Cũng viết là 辭藻. ◇Lục Cơ 陸機: “Gia lệ tảo chi bân bân” 嘉麗藻之彬彬 (Văn phú 文賦) Khen văn chương tươi đẹp, hợp cách (hình thức và nội dung cân đối).<br />
+				<div class="hvres-meaning han-clickable">1. (Danh) Rong, chỉ chung các thứ cỏ mọc ở dưới nước. ◎Như: “hải tảo” 海藻 rong biển.<br>
+2. (Danh) Vẻ đẹp, hình thức hoa lệ. § Rong có văn vẻ, cổ nhân dùng để trang sức mũ áo, cho nên cái gì dùng làm cho đẹp đều gọi là “tảo”. ◇Tào Thực 曹植: “Hoa tảo phồn nhục” 華藻繁縟 (Thất khải 七啟) Vẻ hoa lệ đầy dẫy sặc sỡ.<br>
+3. (Danh) Văn chương, văn từ. ◎Như: “từ tảo” 詞藻 văn chương. Cũng viết là 辭藻. ◇Lục Cơ 陸機: “Gia lệ tảo chi bân bân” 嘉麗藻之彬彬 (Văn phú 文賦) Khen văn chương tươi đẹp, hợp cách (hình thức và nội dung cân đối).<br>
 4. (Động) Phẩm bình nhân vật gọi là “phẩm tảo” 品藻 hay “tảo giám” 藻鑑.</div><p data-duid="uXc3Qd1NpFiPmmP99_AJkw" class="hvres-source">Từ điển Thiều Chửu</p>
-				<div class="hvres-meaning han-clickable">① Rong, rau bể, tên gọi tất cả các thứ cỏ mọc ở dưới nước.<br />
+				<div class="hvres-meaning han-clickable">① Rong, rau bể, tên gọi tất cả các thứ cỏ mọc ở dưới nước.<br>
 ② Rong là một thứ cỏ mọc dưới nước có văn vẻ đẹp, cổ nhân dùng để trang sức mũ áo cho đẹp, cho nên cái gì dùng làm văn sức đều gọi là tảo. Như từ tảo 詞藻 lời đẹp, cũng viết là 辭藻. Lấy lời tốt đẹp mà khen lao người gọi là tảo sức 藻飾. Bình luận nhân vật gọi là phẩm tảo 品藻 hay tảo giám 藻鑑.</div><p data-duid="a1mkgkg3SuxvocxE6fUtlQ" class="hvres-source">Từ điển Trần Văn Chánh</p>
-				<div class="hvres-meaning han-clickable">① Rong: 海藻 Rong biển; <br />
+				<div class="hvres-meaning han-clickable">① Rong: 海藻 Rong biển; <br>
 ② Văn vẻ, hoa mĩ: 辭藻 Lời văn vẻ; 藻飾 Khen lao bằng lời lẽ hoa mĩ; 品藻 (hay 藻鑑) Bình phẩm (nhân vật).</div><p data-duid="uETU7ux1RIaWOGwetQIx9g" class="hvres-source">Từ điển Nguyễn Quốc Hùng</p>
 				<div class="hvres-meaning han-clickable">Tên một loại rau mọc dưới nước, thời cổ dùng làm món cúng — Loại rong rêu.</div><p class="hvres-source">Từ ghép <span class="badge">3</span></p>
 				<div class="hvres-meaning han-clickable small"><a href="/whv/海藻">hải tảo 海藻</a> • <a href="/whv/藻蘋">tảo tần 藻蘋</a> • <a href="/whv/蘋藻">tần tảo 蘋藻</a></div>	</div>
-			</div></div>
-				</div></section>
-	
-		<div id="footer" style="clear:both">
-			&nbsp;
-		</div>
-				
-		<script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
-		</html>
+			</div>	</div>
+				</div>
+			</div>	<footer class="small">
+				<span>&copy; 2001-2023</span>
+				<div id="dark-mode-selector" class="dropdown">
+					<span class="dropdown-btn"><i class="fas fa-fw fa-adjust"></i> Màu giao diện <i class="fa fa-caret-down"></i></span>
+					<div class="dropdown-content align-right z-high"><span class="dropdown-item" data-value="light"><i class="fas fa-fw fa-sun"></i> Luôn sáng</span><span class="dropdown-item" data-value="dark"><i class="fas fa-fw fa-moon"></i> Luôn tối</span><span class="dropdown-item active" data-value="by-system"><i class="fas fa-fw fa-window-maximize"></i> Tự động: theo trình duyệt</span><span class="dropdown-item" data-value="by-time"><i class="fas fa-fw fa-clock"></i> Tự động: theo thời gian ngày/đêm</span></div>
+				</div>
+			</footer>	</section><script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
+	</html>

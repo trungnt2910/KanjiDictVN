@@ -25,14 +25,14 @@
 
 			<title>Tra từ: 蔥 - Từ điển Hán Nôm</title>
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" type="text/css" rel="stylesheet">
-		<link href="/style.1628529627.css" type="text/css" rel="stylesheet">
+		<link href="/style.1649305351.css" type="text/css" rel="stylesheet">
 
 		<script type="text/javascript">
 			const _UrlRewrite = true,
 				_UrlBase = "/";
 		</script>
 		<script type="text/javascript" src="/libjs/jquery-2.2.4.min.1586829527.js"></script>
-		<script type="text/javascript" src="/scripts.1628728181.js"></script>
+		<script type="text/javascript" src="/scripts.1642564303.js"></script>
 		
 		<script type="text/javascript">
 window.onscroll = LP_OnScroll;
@@ -46,16 +46,24 @@ $(LP_OnStartup);
 			ga('create', 'UA-31319182-2', 'thivien.net');
 			ga('require', 'displayfeatures');
 			ga('send', 'pageview');
-			</script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+			</script><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5466764586357052" crossorigin="anonymous"></script><script>
 			  (adsbygoogle = window.adsbygoogle || []).push({
 				google_ad_client: "ca-pub-5466764586357052",
 				enable_page_level_ads: true
 			  });
+			</script><script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> 
+			<script> 
+			window.googletag = window.googletag || {cmd: []}; 
+			googletag.cmd.push(function() {
+				googletag.defineSlot("/27973503/Publishers/Desktop/Large1/thivien.net", [[300, 600]], "div-gpt-ad-1632973737400-0").addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest(); 
+				googletag.enableServices(); 
+			}); 
 			</script></head>
 		<body>
 		
 		<script>
-		if (UsingDarkMode()) document.getElementsByTagName("BODY")[0].classList.add("dark");
+		if (UsingDarkMode()) ApplyDarkMode(true);
 		</script><div id="fb-root"></div>
 			<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
@@ -71,7 +79,7 @@ $(LP_OnStartup);
 					<a class="menu-icon" href="javascript:void(0)"></a>
 					
 					<ul class="menu"><li class="menu-item current"><a href="/" class="menu-title">Tra tổng hợp</a></li><li class="menu-item menu-group"><span class="menu-title">Tìm chữ</span>
-					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
+					<ul class="submenu"><li class="menu-item"><a href="/rad-hv" class="menu-title">Theo bộ thủ</a></li><li class="menu-item"><a href="/strokes-hv" class="menu-title">Theo nét viết</a></li><li class="menu-item"><a href="/ccd-hv" class="menu-title">Theo hình thái</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/reading/1/1" class="menu-title">Theo âm Nhật (onyomi)</a></li><li class="menu-item"><a href="/reading/1/2" class="menu-title">Theo âm Nhật (kunyomi)</a></li><li class="menu-item"><a href="/reading/1/3" class="menu-title">Theo âm Hàn</a></li><li class="menu-item"><a href="/reading/1/4" class="menu-title">Theo âm Quảng Đông</a></li><li class="menu-divider"></li><li class="menu-item"><a href="/lookup-help.php" class="menu-title">Hướng dẫn</a></li><li class="menu-item"><a href="/pop-hv" class="menu-title">Chữ thông dụng</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Chuyển đổi</span>
 					<ul class="submenu"><li class="menu-item"><a href="/transcript.php#trans" class="menu-title">Chữ Hán <i class="fas fa-arrow-right gray"></i> phiên âm</a></li><li class="menu-item"><a href="/transcript.php#han" class="menu-title">Phiên âm <i class="fas fa-arrow-right gray"></i> chữ Hán</a></li><li class="menu-item"><a href="/transcript.php#t2s" class="menu-title">Phồn thể <i class="fas fa-arrow-right gray"></i> giản thể</a></li><li class="menu-item"><a href="/transcript.php#s2t" class="menu-title">Giản thể <i class="fas fa-arrow-right gray"></i> phồn thể</a></li></ul></li><li class="menu-item menu-group"><span class="menu-title">Công cụ</span>
 					<ul class="submenu"><li class="menu-item"><a href="/applications.php" class="menu-title">Cài đặt ứng dụng</a></li><li class="menu-item"><a href="/writing.php" class="menu-title">Học viết chữ Hán</a></li><li class="menu-item"><a href="/fonts.php" class="menu-title">Font chữ Hán Nôm</a></li></ul></li><li class="menu-item"><a href="/comment.php" class="menu-title">Góp ý</a></li>			</ul>
 				</nav>
@@ -80,27 +88,26 @@ $(LP_OnStartup);
 
 		<section><div class="fb-plugin-container" style="width:100%; overflow-x:hidden" data-type="like" data-href="/"></div><div style="text-align:center"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="horizontal"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
-			</div></div><div>
-				<div class="right-col"><!-- HVDic-BigCol -->
+			</div></div><div class="main-content">
+				<div class="ads-col"><!-- HVDic-BigCol -->
 				<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-5466764586357052" data-ad-slot="1091155526"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 				
-				<p></p>
-				
-				<div>
-					<div id="FloatingAds" style="margin:auto">
-						<script type="text/javascript" src="https://e.eclick.vn/delivery/zone/2272.js"></script>
+				<div class="sticky-top" style="margin-top: 5px">
+					<div id="div-gpt-ad-1632973737400-0" style="min-width: 300px; min-height: 250px;">
+					<script>googletag.cmd.push(function() { googletag.display("div-gpt-ad-1632973737400-0"); });</script>
 					</div>
 				</div></div>
-				<div class="main-content">
+				<div class="content-col">
+					<div class="sticky-top">
 <form id="LookupForm" class="main-form" method="GET" action="/" data-lang="1" onsubmit="OnLookupFormSubmitted(event)">
-	<input type="text" readonly="" class="main-input with-vbtn" name="Value" autofocus="" placeholder="車 车 xa xe che1 chē" accesskey="1" value="蔥">
+	<input type="text" readonly="" class="main-input" name="Value" autofocus="" placeholder="車 车 xa xe che1 chē" accesskey="1" value="蔥">
 	
 	<div class="vbtn-group">
 		<button type="button" disabled="" class="mode-selector">文</button><!--
@@ -120,13 +127,7 @@ $(LP_OnStartup);
 
 <div class="info">
 					<h2>Có 1 kết quả:</h2>
-					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">thông</span></div></div><div class="hvres"><div style="margin:10px 0">
-				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div></div><div class="hvres han-word">
+					<div><span class="hvres-goto-link" onclick="LP_JumpTo(this)" data-goto-idx="1">thông</span></div></div><div class="hvres han-word">
 				<div class="hvres-header">		<div class="hvres-word han"><a href="/whv/蔥">蔥</a></div>			<div class="hvres-definition single">			</div>
 				</div>
 
@@ -145,14 +146,14 @@ $(LP_OnStartup);
 					<img class="hvres-variant-img lazy" data-original="/pic/xz/o857Yd055EA6mpnHg_1yhw.gif"></span><span data-tippy-placement="bottom" data-tippy-content="Khải thư">
 					<img class="hvres-variant-img lazy" data-original="/pic/kt/o857Yd055EA6mpnHg_1yhw.gif"></span></div><p class="hvres-source">Dị thể <span class="badge">3</span></p>
 				<div class="hvres-meaning"><a href="/whv/葱"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Giản thể">&#33905;</span></a><a href="/whv/𦴜"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159004;</span></a><a href="/whv/𧁗"><span class="hvres-variant han" data-tippy-placement="bottom" data-tippy-content="Cách viết khác">&#159831;</span></a><p class="gray small" style="padding-left:10px"><a href="/fonts.php">Không hiện chữ?</a></p></div><p class="hvres-source">Một số bài thơ có sử dụng</p>
-				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-%C4%90%C4%83ng/C%E1%BB%95-th%E1%BB%83-thi-nh%E1%BA%A5t-th%E1%BB%A7-ho%E1%BA%A1-Tri%E1%BB%81u-Ti%C3%AAn-qu%E1%BB%91c-s%E1%BB%A9-L%C3%BD-%C4%90%E1%BA%A9u-Phong-k%C3%BD-gi%E1%BA%A3n-tr%C6%B0%E1%BB%9Dng-thi%C3%AAn/poem-dufjwR7ke5zeT0Pc19PDnw">Cổ thể thi nhất thủ hoạ Triều Tiên quốc sứ Lý Đẩu Phong ký giản trường thiên - 古體詩一首和朝鮮國使李斗峰寄柬長篇</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-%C4%90%C4%83ng/author-9vK1MaRfv_HUDMyHo1xP_w">Nguyễn Đăng</a>)<br>• <a target="_blank" href="https://www.thivien.net/Ch%C3%A2n-th%E1%BB%8B/%C4%90%C6%B0%E1%BB%9Dng-th%C6%B0%E1%BB%A3ng-h%C3%A0nh/poem-BBNyf1sH8JWHrWsT6_eWAQ">Đường thượng hành - 塘上行</a> (<a href="https://www.thivien.net/Ch%C3%A2n-th%E1%BB%8B/author-K9GJRXAVduSFrWug6M-qRA">Chân thị</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/Kh%C3%A1ch-c%C6%B0/poem-yp4RgBQGV70R7s4xfE0LYA">Khách cư - 客居</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br>• <a target="_blank" href="https://www.thivien.net/Ng%C3%B4-Ph%C3%BAc-L%C3%A2m/Kh%C3%A1nh-B%E1%BA%B1ng-li%E1%BB%87t-ch%C6%B0%E1%BB%9Bng/poem-VWuELxvF5RaHC3V0v07FYg">Khánh Bằng liệt chướng - 慶鵬列障</a> (<a href="https://www.thivien.net/Ng%C3%B4-Ph%C3%BAc-L%C3%A2m/author-kjKBPKP3VM3yjyBJUH1Xkw">Ngô Phúc Lâm</a>)<br>• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Th%E1%BB%B1c/Nam-ho%C3%A0n-ch%C3%AD-Ng%C5%A9-L%C4%A9nh/poem-H9DG8i-JPVkk8oCklQwwug">Nam hoàn chí Ngũ Lĩnh - 南還至五嶺</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-Th%E1%BB%B1c/author-KlUCS3ER6VvH2W9Ma4g25A">Nguyễn Thực</a>)<br>• <a target="_blank" href="https://www.thivien.net/Kh%E1%BB%95ng-T%E1%BB%AD/Th%C3%A1i-kh%E1%BB%89-2/poem-ti16Bv1Cp-rnutl3bZQHsQ">Thái khỉ 2 - 采芑 2</a> (<a href="https://www.thivien.net/Kh%E1%BB%95ng-T%E1%BB%AD/author-Ghtg3UHpaIYXCkHiqunT7w">Khổng Tử</a>)<br>• <a target="_blank" href="https://www.thivien.net/Mao-Tr%E1%BA%A1ch-%C4%90%C3%B4ng/Thanh-b%C3%ACnh-nh%E1%BA%A1c-H%E1%BB%99i-X%C6%B0%C6%A1ng/poem-Fo23GxNH2P6nTaxz-ZYXhw">Thanh bình nhạc - Hội Xương - 清平樂－會昌</a> (<a href="https://www.thivien.net/Mao-Tr%E1%BA%A1ch-%C4%90%C3%B4ng/author-h4yM6-N0eITEQqfS6Lh1ag">Mao Trạch Đông</a>)<br>• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Khuy%E1%BA%BFn/Ti%E1%BB%83u-c%E1%BA%A3nh/poem-51hziof5mr8emRT42iIRJA">Tiểu cảnh - 小景</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-Khuy%E1%BA%BFn/author-JHbQVfC53E2lRJL-xE616A">Nguyễn Khuyến</a>)<br>• <a target="_blank" href="https://www.thivien.net/Tr%E1%BA%A7n-Qu%C3%BD-C%C3%A1p/V%C3%A3n-qu%C3%A1-H%E1%BA%A3i-V%C3%A2n-quan/poem-vT83_5cqhToPYUmgXZ47xQ">Vãn quá Hải Vân quan - 晚過海雲關</a> (<a href="https://www.thivien.net/Tr%E1%BA%A7n-Qu%C3%BD-C%C3%A1p/author-BcCF1ZxvOmWV0_NgUZWaJw">Trần Quý Cáp</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/V%C4%83n-H%C6%B0%C6%A1ng-Kh%C6%B0%C6%A1ng-th%E1%BA%A5t-thi%E1%BA%BFu-ph%E1%BB%A7-thi%E1%BA%BFt-kho%C3%A1i-h%C3%AD-t%E1%BA%B7ng-tr%C6%B0%E1%BB%9Dng-ca/poem-loqXR_RH7MuCHDDme5Ig1w">Văn Hương Khương thất thiếu phủ thiết khoái hí tặng trường ca - 閿鄉姜七少府設膾，戲贈長</a> (<a href="https://www.thivien.net/%C4%90%E1%BB%97-Ph%E1%BB%A7/author-Se3x2jWTezvoDpkpSU9qjg">Đỗ Phủ</a>)<br></div>	</div>
+				<div class="hvres-meaning small">• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-%C3%81n/Chu-trung-v%E1%BB%8Dng-T%E1%BA%A3n-Vi%C3%AAn-s%C6%A1n/poem-LI91N_SeZ2rByYvbFk5jfg">Chu trung vọng Tản Viên sơn - 舟中望傘圓山</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-%C3%81n/author-_61ob5I7ltDxN1sFVIMCSg">Nguyễn Án</a>)<br>• <a target="_blank" href="https://www.thivien.net/Ch%C3%A2n-th%E1%BB%8B/%C4%90%C6%B0%E1%BB%9Dng-th%C6%B0%E1%BB%A3ng-h%C3%A0nh/poem-BBNyf1sH8JWHrWsT6_eWAQ">Đường thượng hành - 塘上行</a> (<a href="https://www.thivien.net/Ch%C3%A2n-th%E1%BB%8B/author-K9GJRXAVduSFrWug6M-qRA">Chân thị</a>)<br>• <a target="_blank" href="https://www.thivien.net/V%C6%B0%C6%A1ng-%C4%90%C3%ACnh-Khu%C3%AA/Ki%E1%BA%BFn-Vi%C3%AAm-K%E1%BB%B7-D%E1%BA%ADu-th%E1%BA%ADp-nh%E1%BB%8B-nguy%E1%BB%87t-ng%C5%A9-nh%E1%BA%ADt-t%E1%BB%8B-lo%E1%BA%A1n-C%C3%A1p-H%E1%BB%93-s%C6%A1n-th%E1%BA%ADp-tuy%E1%BB%87t-c%C3%BA-k%E1%BB%B3-04/poem-aEF8NYbBaaysno-mDwiA-g">Kiến Viêm Kỷ Dậu thập nhị nguyệt ngũ nhật tị loạn Cáp Hồ sơn thập tuyệt cú kỳ 04 - 建炎己酉十二月五日避亂鴿湖山十絕句其四</a> (<a href="https://www.thivien.net/V%C6%B0%C6%A1ng-%C4%90%C3%ACnh-Khu%C3%AA/author-cPIbGPhSDZhPFKyZAUhL6g">Vương Đình Khuê</a>)<br>• <a target="_blank" href="https://www.thivien.net/Giang-Th%C3%A1i-T%E1%BA%A7n/L%C3%A2u-%C4%91%C3%B4ng-ph%C3%BA/poem-_j4L7JKyQxEFYgyRpxr8xw">Lâu đông phú - 樓東賦</a> (<a href="https://www.thivien.net/Giang-Th%C3%A1i-T%E1%BA%A7n/author-DkvIXCXm0ZOn-455t5I8ew">Giang Thái Tần</a>)<br>• <a target="_blank" href="https://www.thivien.net/V%C6%B0%C6%A1ng-An-Th%E1%BA%A1ch/Nam-h%C6%B0%C6%A1ng-t%E1%BB%AD/poem-GNtv1LLlmJJPTZwL1zJW_w">Nam hương tử - 南鄉子</a> (<a href="https://www.thivien.net/V%C6%B0%C6%A1ng-An-Th%E1%BA%A1ch/author-9cGSHCUvFAIW_3kTfbKANw">Vương An Thạch</a>)<br>• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Ph%C3%BAc-%C6%AFng-B%C3%ACnh/Qu%C3%A1-Giao-Ti%E1%BB%81u-c%E1%BB%91-h%E1%BB%AFu-tr%E1%BA%A1ch-vi%C3%AAn-ho%E1%BA%A1-Minh-Ch%C3%A2u-Tr%E1%BA%A7n-th%E1%BB%8B-lang-nguy%C3%AAn-v%E1%BA%ADn/poem-x0yAfnAnGJIB61DjGlGU7A">Quá Giao Tiều cố hữu trạch viên, hoạ Minh Châu Trần thị lang nguyên vận - 過郊樵故友宅園和明洲陳侍郎原韻</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-Ph%C3%BAc-%C6%AFng-B%C3%ACnh/author-eQ6wft6d1E9_uEITUaRRlg">Nguyễn Phúc Ưng Bình</a>)<br>• <a target="_blank" href="https://www.thivien.net/Nguy%E1%BB%85n-Khuy%E1%BA%BFn/Th%C3%A1i-vi%C3%AAn/poem-7af6N1m7ClDjE32KuEDMJg">Thái viên - 菜園</a> (<a href="https://www.thivien.net/Nguy%E1%BB%85n-Khuy%E1%BA%BFn/author-JHbQVfC53E2lRJL-xE616A">Nguyễn Khuyến</a>)<br>• <a target="_blank" href="https://www.thivien.net/%C3%82u-D%C6%B0%C6%A1ng-Tu/Thu-thanh-ph%C3%BA/poem-8gcYBavPuRIW4ppkAryC9g">Thu thanh phú - 秋聲賦</a> (<a href="https://www.thivien.net/%C3%82u-D%C6%B0%C6%A1ng-Tu/author-Rh6zapU4AwLAuhG1Xl_FMw">Âu Dương Tu</a>)<br>• <a target="_blank" href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/Tranh/poem-xjO4AuM4KPCKObpGXw5nUA">Tranh - 筝</a> (<a href="https://www.thivien.net/B%E1%BA%A1ch-C%C6%B0-D%E1%BB%8B/author-GTDxHQP8eUITUxph4otjnA">Bạch Cư Dị</a>)<br>• <a target="_blank" href="https://www.thivien.net/Tri%E1%BB%87u-th%E1%BB%8B/V%C4%83n-phu-%C4%90%E1%BB%97-Cao-%C4%91%C4%83ng-%C4%91%E1%BB%87/poem-KfngduNqQG6r9BjZU6Rsog">Văn phu Đỗ Cao đăng đệ - 聞夫杜羔登第</a> (<a href="https://www.thivien.net/Tri%E1%BB%87u-th%E1%BB%8B/author-Q2uI9YyMmPkwVu4AOObNjg">Triệu thị</a>)<br></div>	</div>
 			</div><div class="hvres-nav-dock">
 					<a class="hvres-nav-btn hvres-nav-up" href="javascript:void(0)" onclick="ScrollToPrev()" ondblclick="ScrollTo(0)" accesskey=","><i class="hvres-nav-btn-arrow"></i></a>
 					<p class="hvres-nav-idx"><span class="hvres-nav-idx-val">1</span>/1</p>
 					<a class="hvres-nav-btn hvres-nav-down" href="javascript:void(0)" onclick="ScrollToNext()" ondblclick="ScrollTo('bottom')" accesskey="."><i class="hvres-nav-btn-arrow"></i></a>
 				</div><div class="hvres"><div style="margin:10px 0">
 				<!-- HVDic-Responsive -->
-				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto"></ins>
+				<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5466764586357052" data-ad-slot="6998088321" data-ad-format="auto" data-full-width-responsive="true"></ins>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -171,12 +172,13 @@ $(LP_OnStartup);
 ③ Tốt tươi.</div><p data-duid="zGnTEgPM26lXcIlm6iVaDA" class="hvres-source">Từ điển Trần Văn Chánh</p>
 				<div class="hvres-meaning han-clickable">Như 蔥.</div><p data-duid="JBAql77Cx8wJqiI_MzUIZQ" class="hvres-source">Từ điển Nguyễn Quốc Hùng</p>
 				<div class="hvres-meaning han-clickable">Như chữ Thông 葱.</div>	</div>
-			</div></div>
-				</div>	<footer class="small">
-				<span>&copy; 2001-2021</span>
+			</div>	</div>
+				</div>
+			</div>	<footer class="small">
+				<span>&copy; 2001-2023</span>
 				<div id="dark-mode-selector" class="dropdown">
-					<span class="dropdown-btn">Màu giao diện <i class="fa fa-caret-down"></i></span>
-					<div class="dropdown-content align-right"><span class="dropdown-item" data-value="light">Luôn sáng</span><span class="dropdown-item" data-value="dark">Luôn tối</span><span class="dropdown-item active" data-value="by-system">Tự động: theo hệ thống</span><span class="dropdown-item" data-value="by-time">Tự động: theo thời gian ngày/đêm</span></div>
+					<span class="dropdown-btn"><i class="fas fa-fw fa-adjust"></i> Màu giao diện <i class="fa fa-caret-down"></i></span>
+					<div class="dropdown-content align-right z-high"><span class="dropdown-item" data-value="light"><i class="fas fa-fw fa-sun"></i> Luôn sáng</span><span class="dropdown-item" data-value="dark"><i class="fas fa-fw fa-moon"></i> Luôn tối</span><span class="dropdown-item active" data-value="by-system"><i class="fas fa-fw fa-window-maximize"></i> Tự động: theo trình duyệt</span><span class="dropdown-item" data-value="by-time"><i class="fas fa-fw fa-clock"></i> Tự động: theo thời gian ngày/đêm</span></div>
 				</div>
 			</footer>	</section><script type="text/javascript" src="/libjs/avim20080728.min.js"></script></body>
 	</html>
