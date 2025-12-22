@@ -1,5 +1,4 @@
 ﻿using HtmlAgilityPack;
-using System.Reflection.Metadata;
 
 namespace Generator.HanViet;
 
@@ -30,5 +29,18 @@ public class HvresDocument
         return node.Descendants()
             .Where(x => x.HasClass("hvres-details"))
             .Any();
+    }
+    public static string TruncateHtml(HtmlNode node)
+    {
+        var bases = node.Descendants()
+        .Where(n => n.HasClass("hvres") && (n.HasClass("han-word") || !string.IsNullOrEmpty(n.Attributes["name"]?.Value)))
+        .ToList();
+        using var writer = new StringWriter();
+        foreach (var item in bases)
+        {
+            item.WriteTo(writer);
+            writer.WriteLine();
+        }
+        return writer.ToString();
     }
 }

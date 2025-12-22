@@ -223,7 +223,9 @@ public class HanNomConverter : ConverterBase
                         }
 
                         // Save the valid html for reuse and/or debugging purposes.
-                        await File.WriteAllTextAsync(cacheFile, document.DocumentNode.OuterHtml);
+                        // await File.WriteAllTextAsync(cacheFile, document.DocumentNode.OuterHtml);
+                        // Save the truncated html to save space
+                        await File.WriteAllTextAsync(cacheFile, HvresDocument.TruncateHtml(document.DocumentNode));
                     }
 
                     // Strip every goddamn thing except the kanji.
