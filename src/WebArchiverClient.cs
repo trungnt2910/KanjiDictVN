@@ -25,7 +25,7 @@ public class WebArchiverClient: IDisposable
     public WebArchiverClient()
         : this(new HttpClient(), true)
     {
-        
+
     }
 
     /// <summary>
@@ -36,7 +36,7 @@ public class WebArchiverClient: IDisposable
     {
         var response = await _client.GetStringAsync($"{_baseApi}cdx/search/cdx?url={url}");
 
-        foreach (var entry in response.Split("\n", 
+        foreach (var entry in response.Split("\n",
             StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
         {
             yield return new WebArchiverEntry(entry);
@@ -109,7 +109,7 @@ public class WebArchiverClient: IDisposable
             {
                 archiveResponse = await _client.GetAsync(saveApi);
             }
-            catch (Exception e)
+            catch
             {
                 // Don't know what to do here yet...
                 // System.Diagnostics.Debugger.Break();
@@ -137,8 +137,8 @@ public class WebArchiverClient: IDisposable
                         return false;
                     }
 
-                    if (DateTime.TryParseExact(latestArchiveStamp, 
-                            "yyyyMMddHHmmss", 
+                    if (DateTime.TryParseExact(latestArchiveStamp,
+                            "yyyyMMddHHmmss",
                             CultureInfo.InvariantCulture,
                             DateTimeStyles.None,
                             out var timestamp))
