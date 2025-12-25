@@ -15,7 +15,16 @@ public class DebloatConverter : ConverterBase
             Title = sourceIndex.Title + " - Debloated",
             Format = sourceIndex.Format,
             Revision = "trungnt2910." + sourceIndex.Revision + ".debloated",
-            Sequenced = sourceIndex.Sequenced
+            Sequenced = sourceIndex.Sequenced,
+            Author = sourceIndex.Author,
+            Url = Utilities.GetAssemblyRepositoryUrl(),
+            Description = sourceIndex.Description,
+            Attribution = sourceIndex.Attribution,
+            IsUpdatable = true,
+            IndexUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/releases/latest/download/"
+                + "KANJIDIC_english.json",
+            DownloadUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/release/latest/download/"
+                + "KANJIDIC_english.json"
         });
     }
 

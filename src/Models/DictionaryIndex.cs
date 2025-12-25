@@ -15,4 +15,25 @@ public class DictionaryIndex
 
     [JsonPropertyName("sequenced")]
     public bool Sequenced { get; set; } = false;
+
+    [JsonPropertyName("author")]
+    public string Author { get; set; } = string.Empty;
+
+    [JsonPropertyName("url")]
+    public string Url { get; set; } = string.Empty;
+
+    [JsonPropertyName("description")]
+    public string Description { get; set; } = string.Empty;
+
+    [JsonPropertyName("attribution")]
+    public string Attribution { get; set; } = string.Empty;
+
+    [JsonPropertyName("isUpdatable")]
+    public bool IsUpdatable { get; set; } = false;
+
+    [JsonPropertyName("indexUrl")]
+    public string? IndexUrl { get; set; }
+
+    [JsonPropertyName("downloadUrl")]
+    public string? DownloadUrl { get; set; }
 }

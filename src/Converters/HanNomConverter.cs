@@ -26,7 +26,18 @@ public class HanNomConverter : ConverterBase
             Title = "Từ điển Hán Nôm",
             Format = sourceIndex.Format,
             Revision = "trungnt2910.hannom." + DateTime.UtcNow.ToString("yyyyMMdd-HHmmss") + "." + sourceIndex.Revision,
-            Sequenced = sourceIndex.Sequenced
+            Sequenced = sourceIndex.Sequenced,
+            Author = "trungnt2910",
+            Url = Utilities.GetAssemblyRepositoryUrl(),
+            Description = "Từ điển Hán tự tiếng Việt cho Yomitan",
+            Attribution = "Tổng hợp dựa trên mục từ của KANJIDIC (English) kết hợp với "
+                + "cách đọc và giải nghĩa tiếng Việt từ https://hvdic.thivien.net",
+            IsUpdatable = true,
+            IndexUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/releases/latest/download/"
+                + "KANJIDIC_vietnamese.json",
+            DownloadUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/release/latest/download/"
+                + "KANJIDIC_vietnamese.json"
+
         });
     }
 
@@ -66,7 +77,7 @@ public class HanNomConverter : ConverterBase
         };
         using var torHttpClient = new HttpClient(torClientHandler);
         torHttpClient.DefaultRequestHeaders.UserAgent.ParseAdd(_userAgent);
-       
+
         using var torManualResetEvent = new ManualResetEventSlim(true);
         using var torIdentityResetSemaphore = new SemaphoreSlim(1);
         var torIdentityResetCts = new CancellationTokenSource();
@@ -119,11 +130,11 @@ public class HanNomConverter : ConverterBase
             var kanjiPerChunk = sourceKanjiBank.Length / _fetcherMaxConcurrentJobs;
             var fetcherTasks = new Task[_fetcherMaxConcurrentJobs];
 
-            for (int i = 0; i < _fetcherMaxConcurrentJobs; ++i) 
+            for (int i = 0; i < _fetcherMaxConcurrentJobs; ++i)
             {
-                fetcherTasks[i] = FetcherMain(i * kanjiPerChunk, 
-                    (i == _fetcherMaxConcurrentJobs - 1) ? 
-                        sourceKanjiBank.Length : 
+                fetcherTasks[i] = FetcherMain(i * kanjiPerChunk,
+                    (i == _fetcherMaxConcurrentJobs - 1) ?
+                        sourceKanjiBank.Length :
                         (i + 1) * kanjiPerChunk);
             }
 
@@ -198,7 +209,7 @@ public class HanNomConverter : ConverterBase
 
                                     // Forces all communication on the old client to stop
                                     torIdentityResetCts.Cancel();
-                                    
+
                                     if (!torIdentityResetCts.TryReset())
                                     {
                                         torIdentityResetCts.Dispose();
