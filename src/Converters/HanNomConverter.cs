@@ -35,7 +35,7 @@ public class HanNomConverter : ConverterBase
             IsUpdatable = true,
             IndexUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/releases/latest/download/"
                 + "KANJIDIC_vietnamese.json",
-            DownloadUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/release/latest/download/"
+            DownloadUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/releases/latest/download/"
                 + "KANJIDIC_vietnamese.zip"
 
         });
