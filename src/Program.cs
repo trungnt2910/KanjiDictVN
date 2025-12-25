@@ -2,7 +2,10 @@
 using System.Text;
 
 // Setup
-Console.OutputEncoding = Encoding.Unicode;
+if (OperatingSystem.IsWindows())
+{
+    Console.OutputEncoding = Encoding.Unicode;
+}
 
 // Find input and output directories
 
@@ -10,7 +13,7 @@ var repoDir = Environment.CurrentDirectory;
 while (!Directory.Exists(Path.Combine(repoDir, ".git")))
 {
     var newRepoDir = Directory.GetParent(repoDir)?.FullName;
-    
+
     if (newRepoDir == null)
     {
         throw new InvalidOperationException("The current directory is not the project directory (or any of its descendants).");
