@@ -8,18 +8,18 @@ Bao gồm 10350 mục Hán tự để sử dụng với ứng dụng từ điể
 ## Hướng dẫn
 
 ### Cài đặt từ điển
-- Clone repo này.
-- Nén tất cả các file trong thư mục `out_vn` thành một file `.zip`. Chú ý rằng, file `index.json` phải nằm ở gốc của file `.zip`, không được để thư mục `out_vn` xuất hiện trong file `.zip`.
+- `clone` dự án này.
+- Nén tất cả các tệp trong thư mục `out_vn` thành một tệp `.zip`. Chú ý rằng, tệp `index.json` phải nằm ở gốc của tệp `.zip`, không được để thư mục `out_vn` xuất hiện trong tệp `.zip`.
 - `Import` từ điển này vào Yomichan như bất cứ từ điển nào khác.
 
 ### Tự xây dựng từ điển
-- Clone và chạy chương trình `Generator` trong thư mục `src`.
+- `clone` và chạy chương trình `Generator` trong thư mục `src`.
 - Đợi một lúc để chương trình tải và xử lý dữ liệu Hán tự.
 - Làm lại các bước như mục "Cài đặt từ điển".
 
 ### Cập nhật từ điển từ dữ liệu của từ điển Hán Nôm
-- Clone repo này.
-- Xóa các file trong `hvcache` tương ứng với các ký tự bạn muốn cập nhật, hoặc xóa cả thư mục nếu bạn muốn cập nhật toàn bộ từ điển.
+- `clone` dự án này.
+- Xóa các tệp trong `hvcache` tương ứng với các ký tự bạn muốn cập nhật, hoặc xóa cả thư mục nếu bạn muốn cập nhật toàn bộ từ điển.
 - Chạy chương trình `Generator` trong thư mục `src`.
 - Đợi một lúc để chương trình tải và xử lý dữ liệu Hán tự.
 - Làm lại các bước như mục "Cài đặt từ điển".
