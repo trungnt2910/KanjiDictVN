@@ -1,4 +1,5 @@
 ﻿using Generator.Models;
+using System.IO.Compression;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 
@@ -36,7 +37,7 @@ public abstract class ConverterBase
         }
 
         SourceIndex = index;
-        
+
         // Tag and Kanji banks are 1-BASED INDEXED!
 
         SourceTagBanks = new List<DictionaryTagEntry[]>();
@@ -76,8 +77,13 @@ public abstract class ConverterBase
         }
     }
 
-    public void Write(string outputDir)
+    public void Write(string outputDir, string? packDir = null)
     {
+        if (ResultIndex is null || ResultTagBanks is null || ResultKanjiBanks is null)
+        {
+            throw new InvalidOperationException("Write cannot be called before Convert.");
+        }
+
         var serializeOptions = new JsonSerializerOptions()
         {
             Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
@@ -96,6 +102,38 @@ public abstract class ConverterBase
         {
             File.WriteAllText(Path.Combine(outputDir, $"kanji_bank_{i}.json"),
                 JsonSerializer.Serialize(ResultKanjiBanks[i - 1].Select(e => e.ToObjectRepresentation()).ToArray(), serializeOptions));
+        }
+
+        if (packDir is not null)
+        {
+            Directory.CreateDirectory(packDir);
+
+            var packPath = $"{Path.Combine(packDir, ResultIndex.Revision)}.zip";
+
+            ZipFile.CreateFromDirectory(
+                outputDir,
+                packPath,
+                CompressionLevel.Optimal,
+                includeBaseDirectory: false
+            );
+
+            if (ResultIndex.IndexUrl is not null)
+            {
+                var indexPath = Path.Combine(
+                    packDir,
+                    Path.GetFileName(new Uri(ResultIndex.IndexUrl).AbsolutePath)
+                );
+                File.Copy(Path.Combine(outputDir, "index.json"), indexPath);
+            }
+
+            if (ResultIndex.DownloadUrl is not null)
+            {
+                var downloadPath = Path.Combine(
+                    packDir,
+                    Path.GetFileName(new Uri(ResultIndex.DownloadUrl).AbsolutePath)
+                );
+                File.Copy(packPath, downloadPath);
+            }
         }
     }
 

@@ -30,10 +30,10 @@ var englishOutputDir = Path.Combine(repoDir, "out_en");
 
 var debloatConverter = new DebloatConverter(englishInputDir);
 await debloatConverter.Convert();
-debloatConverter.Write(englishOutputDir);
+debloatConverter.Write(englishOutputDir, "artifacts");
 
 // Han Nom
 
 var hanNomConverter = new HanNomConverter(englishInputDir, Path.Combine(repoDir, "hvcache"));
 await hanNomConverter.Convert();
-hanNomConverter.Write(vietnameseOutputDir);
+hanNomConverter.Write(vietnameseOutputDir, "artifacts");
