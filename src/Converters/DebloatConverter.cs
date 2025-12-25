@@ -24,7 +24,7 @@ public class DebloatConverter : ConverterBase
             IndexUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/releases/latest/download/"
                 + "KANJIDIC_english.json",
             DownloadUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/release/latest/download/"
-                + "KANJIDIC_english.json"
+                + "KANJIDIC_english.zip"
         });
     }
 

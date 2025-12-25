@@ -36,7 +36,7 @@ public class HanNomConverter : ConverterBase
             IndexUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/releases/latest/download/"
                 + "KANJIDIC_vietnamese.json",
             DownloadUrl = $"{Utilities.GetAssemblyRepositoryUrl()}/release/latest/download/"
-                + "KANJIDIC_vietnamese.json"
+                + "KANJIDIC_vietnamese.zip"
 
         });
     }
