@@ -109,7 +109,7 @@ public abstract class ConverterBase
             Directory.CreateDirectory(packDir);
 
             var packPath = $"{Path.Combine(packDir, ResultIndex.Revision)}.zip";
-
+            File.Delete(packPath);
             ZipFile.CreateFromDirectory(
                 outputDir,
                 packPath,
@@ -123,7 +123,7 @@ public abstract class ConverterBase
                     packDir,
                     Path.GetFileName(new Uri(ResultIndex.IndexUrl).AbsolutePath)
                 );
-                File.Copy(Path.Combine(outputDir, "index.json"), indexPath);
+                File.Copy(Path.Combine(outputDir, "index.json"), indexPath, overwrite: true);
             }
 
             if (ResultIndex.DownloadUrl is not null)
@@ -132,7 +132,7 @@ public abstract class ConverterBase
                     packDir,
                     Path.GetFileName(new Uri(ResultIndex.DownloadUrl).AbsolutePath)
                 );
-                File.Copy(packPath, downloadPath);
+                File.Copy(packPath, downloadPath, overwrite: true);
             }
         }
     }
