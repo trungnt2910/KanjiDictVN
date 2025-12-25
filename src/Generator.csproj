@@ -7,6 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <Authors>trungnt2910</Authors>
+    <RepositoryUrl>https://github.com/trungnt2910/KanjiDictVN</RepositoryUrl>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="HtmlAgilityPack" Version="1.12.4" />
     <PackageReference Include="Knapcode.TorSharp" Version="2.15.0" />

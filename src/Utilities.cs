@@ -1,4 +1,5 @@
 ﻿using HtmlAgilityPack;
+using System.Reflection;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 
@@ -82,5 +83,13 @@ internal static class Utilities
     private static HtmlNodeCollection SafeSelectNodes(this HtmlNode node, string selector)
     {
         return (node.SelectNodes(selector) ?? new HtmlNodeCollection(node));
+    }
+
+    public static string GetAssemblyRepositoryUrl()
+    {
+        return Assembly.GetCallingAssembly()
+                .GetCustomAttributes<AssemblyMetadataAttribute>()
+                .FirstOrDefault(attribute => attribute.Key == "RepositoryUrl")
+                ?.Value ?? string.Empty;
     }
 }
