@@ -1,7 +1,7 @@
 # KanjiDictVN
 Từ điển chữ Hán (Kanji) tiếng Nhật với âm đọc Hán - Việt và giải nghĩa Hán Việt.
 
-Dựa trên từ điển [KANJIDIC (English)](https://github.com/FooSoft/yomichan/blob/dictionaries/kanjidic_english.zip) và dữ liệu trên trang web [Từ điển Hán Nôm](https://hvdic.thivien.net/).
+Dựa trên từ điển [KANJIDIC (English)](https://github.com/yomidevs/jmdict-yomitan) và dữ liệu trên trang web [Từ điển Hán Nôm](https://hvdic.thivien.net/).
 
 Bao gồm 10350 mục Hán tự để sử dụng với ứng dụng từ điển [Yomichan](https://github.com/FooSoft/yomichan).
 
@@ -25,11 +25,11 @@ Bao gồm 10350 mục Hán tự để sử dụng với ứng dụng từ điể
 - Làm lại các bước như mục "Cài đặt từ điển".
 
 ## Bản quyền
-Tất cả mã nguồn chương trình trong dự án thuộc sở hữu (C) 2023 Nguyễn Thành Trung.
+Tất cả mã nguồn chương trình trong dự án thuộc sở hữu (C) 2023-2025 Nguyễn Thành Trung.
 
 KANJIDIC (English) thuộc bản quyền của [Electronic Dictionary Research and Development Group](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project#Copyright_and_Permissions), và được sử dụng dưới [giấy phép](https://www.edrdg.org/edrdg/licence.html) của họ.
 
-Cách đọc và giải nghĩa tiếng Việt thuộc sở hữu (C) 2001-2023 hvdic.thivien.net
+Cách đọc và giải nghĩa tiếng Việt thuộc sở hữu (C) 2001-2025 hvdic.thivien.net
 
 ## Ảnh
 
