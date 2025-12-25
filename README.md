@@ -34,10 +34,10 @@ Cách đọc và giải nghĩa tiếng Việt thuộc sở hữu (C) 2001-2023 h
 ## Ảnh
 
 Quá trình sinh từ điển:
-![](https://cdn.discordapp.com/attachments/1020653068389466143/1061694638014083102/image.png)
+![](docs/image_generation.png)
 
 Từ điển Hán Nôm:
-![](https://cdn.discordapp.com/attachments/1020653068389466143/1061695042370158732/image.png)
+![](docs/image_dictionary.png)
 
 Từ điển trên một trang web trên Microsoft Edge:
-![](https://cdn.discordapp.com/attachments/1020653068389466143/1062001907335434350/image.png)
+![](docs/image_edgepopup.png)
